@@ -1,0 +1,844 @@
+[
+{
+ "title": "One Step Closer",
+ "line": ["I cannot take this anymore"],
+ "begin": [21],
+ "end": [25.6],
+ "duration": ["4.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628962"
+},
+{
+ "title": "One Step Closer",
+ "line": ["Saying everything I've said before"],
+ "begin": [26],
+ "end": [30.5],
+ "duration": ["4.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628963"
+},
+{
+ "title": "One Step Closer",
+ "line": ["All these words they make no sense"],
+ "begin": [30.5],
+ "end": [33],
+ "duration": ["2.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628964"
+},
+{
+ "title": "One Step Closer",
+ "line": ["I found bliss in ignorance"],
+ "begin": [33],
+ "end": [35.6],
+ "duration": ["2.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628965"
+},
+{
+ "title": "One Step Closer",
+ "line": ["Less I hear the less you say"],
+ "begin": [35.6],
+ "end": [37.9],
+ "duration": ["2.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628966"
+},
+{
+ "title": "One Step Closer",
+ "line": ["You'll find that out anyway"],
+ "begin": [37.9],
+ "end": [41.2],
+ "duration": ["3.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628967"
+},
+{
+ "title": "One Step Closer",
+ "line": [""],
+ "begin": [],
+ "end": [],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628968"
+},
+{
+ "title": "One Step Closer",
+ "line": ["Just like before..."],
+ "begin": [41.2],
+ "end": [44.5],
+ "duration": ["3.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628969"
+},
+{
+ "title": "One Step Closer",
+ "line": [""],
+ "begin": [0],
+ "end": [8],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62896a"
+},
+{
+ "title": "One Step Closer",
+ "line": ["Everything you say to me"],
+ "begin": [44.8],
+ "end": [48.9],
+ "duration": ["4.1s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [10, 11],
+  "delay": ["1.9s", "3.8s"],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62896b"
+},
+{
+ "title": "One Step Closer",
+ "line": ["Takes me one step closer to the edge"],
+ "begin": [46.7],
+ "end": [48.6],
+ "duration": ["1.9s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62896c"
+},
+{
+ "title": "One Step Closer",
+ "line": ["And I'm about to break"],
+ "begin": [48.6],
+ "end": [50],
+ "duration": ["1.4s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62896d"
+},
+{
+ "title": "One Step Closer",
+ "line": ["I need a little room to breathe"],
+ "begin": [50.1],
+ "end": [54.5],
+ "duration": ["4.1s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [13, 14],
+  "delay": ["1.7s", "3.6s"],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62896e"
+},
+{
+ "title": "One Step Closer",
+ "line": ["Cause I'm one step closer to the edge"],
+ "begin": [51.8],
+ "end": [53.7],
+ "duration": ["1.9s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62896f"
+},
+{
+ "title": "One Step Closer",
+ "line": [
+  "I'm about to break"],
+ "begin": [53.7],
+ "end": [55.1],
+ "duration": ["1.4s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628970"
+},
+{
+ "title": "One Step Closer",
+ "line": [""],
+ "begin": [0],
+ "end": [15],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628971"
+},
+{
+ "title": "One Step Closer",
+ "line": ["I find the answers aren't so clear"],
+ "begin": [55.1],
+ "end": [60],
+ "duration": ["4.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628972"
+},
+{
+ "title": "One Step Closer",
+ "line": ["Wish I could find a way to disappear"],
+ "begin": [60],
+ "end": [64.3],
+ "duration": ["4.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628973"
+},
+{
+ "title": "One Step Closer",
+ "line": ["All these thoughts they make no sense"],
+ "begin": [64.3],
+ "end": [67.1],
+ "duration": ["3.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628974"
+},
+{
+ "title": "One Step Closer",
+ "line": ["I found bliss in ignorance"],
+ "begin": [67.1],
+ "end": [69.7],
+ "duration": ["2.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628975"
+},
+{
+ "title": "One Step Closer",
+ "line": ["Nothing seems to go away"],
+ "begin": [69.7],
+ "end": [72],
+ "duration": ["2.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628976"
+},
+{
+ "title": "One Step Closer",
+ "line": [
+  "Over and over again"],
+ "begin": [72],
+ "end": [75.4],
+ "duration": ["3.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628977"
+},
+{
+"title": "One Step Closer",
+"line": [""],
+"begin": [],
+"end": [22],
+"duration": ["0s"],
+"overlapped": 0,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac62896a"
+},
+{
+"title": "One Step Closer",
+"line": ["Just like before..."],
+"begin": [75.4],
+"end": [78.7],
+"duration": ["3.3s"],
+"overlapped": 0,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac628969"
+},
+{
+"title": "One Step Closer",
+"line": [""],
+"begin": [],
+"end": [24],
+"duration": ["0s"],
+"overlapped": 0,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac62896a"
+},
+{
+"title": "One Step Closer",
+"line": ["Everything you say to me"],
+"begin": [79],
+"end": [83.1],
+"duration": ["4.1s"],
+"overlapped": 1,
+"overlap": {
+    "with": [26, 27],
+    "delay": ["1.9s", "3.8s"],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac62896b"
+},
+{
+"title": "One Step Closer",
+"line": ["Takes me one step closer to the edge"],
+"begin": [80.9],
+"end": [82.8],
+"duration": ["1.9s"],
+"overlapped": 2,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac62896c"
+},
+{
+"title": "One Step Closer",
+"line": ["And I'm about to break"],
+"begin": [82.8],
+"end": [84.2],
+"duration": ["1.4s"],
+"overlapped": 2,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac62896d"
+},
+{
+"title": "One Step Closer",
+"line": ["I need a little room to breathe"],
+"begin": [84.2],
+"end": [88.3],
+"duration": ["4.1s"],
+"overlapped": 1,
+"overlap": {
+    "with": [29, 30],
+    "delay": ["1.7s", "3.6s"],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac62896e"
+},
+{
+"title": "One Step Closer",
+"line": ["Cause I'm one step closer to the edge"],
+"begin": [85.9],
+"end": [87.8],
+"duration": ["1.9s"],
+"overlapped": 2,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac62896f"
+},
+{
+"title": "One Step Closer",
+"line": ["I'm about to break"],
+"begin": [87.8],
+"end": [89.2],
+"duration": ["1.4s"],
+"overlapped": 2,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac628970"
+},
+{
+ "title": "One Step Closer",
+ "line": [""],
+ "begin": [0],
+ "end": [31],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628978"
+},
+{
+"title": "One Step Closer",
+"line": ["Everything you say to me"],
+"begin": [89.2],
+"end": [93.3],
+"duration": ["4.1s"],
+"overlapped": 1,
+"overlap": {
+    "with": [33, 34],
+    "delay": ["1.6s", "3.7s"],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac62896b"
+},
+{
+"title": "One Step Closer",
+"line": ["Takes me one step closer to the edge"],
+"begin": [90.8],
+"end": [92.9],
+"duration": ["2.1s"],
+"overlapped": 2,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac62896c"
+},
+{
+"title": "One Step Closer",
+"line": ["And I'm about to break"],
+"begin": [92.9],
+"end": [94.1],
+"duration": ["1.2s"],
+"overlapped": 2,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac62896d"
+},
+{
+"title": "One Step Closer",
+"line": ["I need a little room to breathe"],
+"begin": [94.3],
+"end": [96.4],
+"duration": ["4.1s"],
+"overlapped": 1,
+"overlap": {
+    "with": [36, 37],
+    "delay": ["1.7s", "3.6s"],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac62896e"
+},
+{
+"title": "One Step Closer",
+"line": ["Cause I'm one step closer to the edge"],
+"begin": [96],
+"end": [97.9],
+"duration": ["1.9s"],
+"overlapped": 2,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac62896f"
+},
+{
+"title": "One Step Closer",
+"line": ["And I'm about to", "", " break"],
+"begin": [97.9, 99.3, 101.1],
+"end": [99.3, 101.1, 101.9],
+"duration": ["1.4s", "1.8s", "0.8s"],
+"overlapped": 2,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac628970"
+},
+{
+"title": "One Step Closer",
+"line": [""],
+"begin": [0],
+"end": [38],
+"duration": ["0s"],
+"overlapped": 0,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac628971"
+},
+{
+ "title": "One Step Closer",
+ "line": ["Shut up when I'm talking to you"],
+ "begin": [109],
+ "end": [111.3],
+ "duration": ["2.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628979"
+},
+{
+ "title": "One Step Closer",
+ "line": ["Shut up! ", "", "Shut up!", "", " Shut up!"],
+ "begin": [111.3, 112.5, 113.8, 115.0, 116.3],
+ "end": [112.5, 113.8, 115.0, 116.3, 117.3],
+ "duration": ["0.8s","1.3s", "1.2s", "1.3s", "1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62897a"
+},
+{
+"title": "One Step Closer",
+"line": [""],
+"begin": [41],
+"end": [],
+"duration": ["0s"],
+"overlapped": 0,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac628971"
+},
+{
+ "title": "One Step Closer",
+ "line": ["Shut up when I'm talking to you"],
+ "begin": [119.1],
+ "end": [121.3],
+ "duration": ["2.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628979"
+},
+{
+ "title": "One Step Closer",
+ "line": ["Shut up! ", "", "Shut up! ", "", "Shut up!"],
+ "begin": [121.3, 122.5, 123.9, 125.3, 126.4],
+ "end": [122.5, 123.9, 125.3, 126.4, 127.9],
+ "duration": ["0.8s", "1.4s", "1.2s", "1.1s", "1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62897a"
+},
+{
+"title": "One Step Closer",
+"line": ["Shut ", "up!", " I'm about to break!"],
+"begin": [128.8, 129.5, 130.8],
+"end": [129.5, 130.8, 132],
+"duration": ["0.7s", "1.3s", "1.2s"],
+"overlapped": 0,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac62897b"
+},
+{
+ "title": "One Step Closer",
+ "line": [""],
+ "begin": [],
+ "end": [45],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62897b"
+},
+{
+    "title": "One Step Closer",
+    "line": ["Everything you say to me"],
+    "begin": [132],
+    "end": [136.1],
+    "duration": ["4.1s"],
+    "overlapped": 1,
+    "overlap": {
+        "with": [47, 48],
+        "delay": ["1.6s", "3.8s"],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac62896b"
+    },
+    {
+    "title": "One Step Closer",
+    "line": ["Takes me one step closer to the edge"],
+    "begin": [133.6],
+    "end": [135.8],
+    "duration": ["2.2s"],
+    "overlapped": 2,
+    "overlap": {
+        "with": [],
+        "delay": [],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac62896c"
+    },
+    {
+    "title": "One Step Closer",
+    "line": ["And I'm about to break"],
+    "begin": [135.8],
+    "end": [137],
+    "duration": ["1.2s"],
+    "overlapped": 2,
+    "overlap": {
+        "with": [],
+        "delay": [],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac62896d"
+    },
+    {
+    "title": "One Step Closer",
+    "line": ["I need a little room to breathe"],
+    "begin": [136.9],
+    "end": [141.0],
+    "duration": ["4.1s"],
+    "overlapped": 1,
+    "overlap": {
+        "with": [50, 51],
+        "delay": ["1.7s", "3.6s"],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac62896e"
+    },
+    {
+    "title": "One Step Closer",
+    "line": ["Cause I'm one step closer to the edge"],
+    "begin": [138.6],
+    "end": [140.5],
+    "duration": ["1.9s"],
+    "overlapped": 2,
+    "overlap": {
+        "with": [],
+        "delay": [],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac62896f"
+    },
+    {
+    "title": "One Step Closer",
+    "line": ["I'm about to break"],
+    "begin": [140.5],
+    "end": [141.9],
+    "duration": ["1.4s"],
+    "overlapped": 2,
+    "overlap": {
+        "with": [],
+        "delay": [],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac628970"
+    },
+    {
+    "title": "One Step Closer",
+    "line": [""],
+    "begin": [0],
+    "end": [52],
+    "duration": ["0s"],
+    "overlapped": 0,
+    "overlap": {
+        "with": [],
+        "delay": [],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac628971"
+    },
+{
+"title": "One Step Closer",
+"line": ["Everything you say to me"],
+"begin": [141.9],
+"end": [146],
+"duration": ["4.1s"],
+"overlapped": 1,
+"overlap": {
+    "with": [54, 55],
+    "delay": ["1.8s", "3.7s"],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac62896b"
+},
+{
+"title": "One Step Closer",
+"line": ["Takes me one step closer to the edge"],
+"begin": [143.7],
+"end": [145.8],
+"duration": ["2.1s"],
+"overlapped": 2,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac62896c"
+},
+{
+"title": "One Step Closer",
+"line": ["And I'm about to break"],
+"begin": [145.8],
+"end": [147],
+"duration": ["1.2s"],
+"overlapped": 2,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac62896d"
+},
+{
+"title": "One Step Closer",
+"line": ["I need a little room to breathe"],
+"begin": [147],
+"end": [151.1],
+"duration": ["4.1s"],
+"overlapped": 1,
+"overlap": {
+    "with": [57, 58],
+    "delay": ["1.7s", "3.6s"],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac62896e"
+},
+{
+"title": "One Step Closer",
+"line": ["Cause I'm one step closer to the edge"],
+"begin": [148.7],
+"end": [150.6],
+"duration": ["1.9s"],
+"overlapped": 2,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac62896f"
+},
+{
+"title": "One Step Closer",
+"line": ["And I'm about to", "", " break"],
+"begin": [150.6, 152, 154.2],
+"end": [152, 154.2, 154.6],
+"duration": ["1.4s", "2.2s", "0.4s"],
+"overlapped": 2,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac628970"
+},
+{
+"title": "One Step Closer",
+"line": [""],
+"begin": [0],
+"end": [52],
+"duration": ["0s"],
+"overlapped": 0,
+"overlap": {
+    "with": [],
+    "delay": [],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac628971"
+}
+]

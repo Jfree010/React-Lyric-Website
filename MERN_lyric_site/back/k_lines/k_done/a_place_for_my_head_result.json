@@ -1,0 +1,1108 @@
+[
+{
+ "title": "A Place For My Head",
+ "line": ["I watch how the moon sits in the sky in the dark night"],
+ "begin": [28],
+ "end": [30.5],
+ "duration": ["2.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17b6"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["Shining with the light from the sun"],
+ "begin": [30.5],
+ "end": [32.2],
+ "duration": ["1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17b7"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["The sun doesn't give light to the moon assuming"],
+ "begin": [32.2],
+ "end": [34.5],
+ "duration": ["2.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17b8"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["The moon's gonna owe it one"],
+ "begin": [34.5],
+ "end": [35.9],
+ "duration": ["1.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17b9"
+},
+{
+ "title": "A Place For My Head",
+ "line": [""],
+ "begin": [],
+ "end": [4],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17ba"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["It makes me think of how you act to me"],
+ "begin": [35.9],
+ "end": [37.5],
+ "duration": ["1.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17bb"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["You do favors, then rapidly"],
+ "begin": [37.5],
+ "end": [39.4],
+ "duration": ["1.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17bc"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["Just turn around and start askin' me about"],
+ "begin": [39.4],
+ "end": [41.5],
+ "duration": ["2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17bd"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["Things that you want back from me"],
+ "begin": [41.5],
+ "end": [43],
+ "duration": ["2.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17be"
+},
+{
+ "title": "A Place For My Head",
+ "line": [""],
+ "begin": [0],
+ "end": [9],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17bf"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["I'm sick of the tension—"," sick of the hunger"],
+ "begin": [43, 44.1],
+ "end": [44.1, 44.9],
+ "duration": ["1.1s", "0.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17c0"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["Sick of you actin' like I owe you this"],
+ "begin": [44.9],
+ "end": [46.7],
+ "duration": ["1.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17c1"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["Find another place to feed your greed"],
+ "begin": [46.7],
+ "end": [48.5],
+ "duration": ["1.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17c2"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["While I find a place to rest"],
+ "begin": [48.5],
+ "end": [50],
+ "duration": ["1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17c3"
+},
+{
+ "title": "A Place For My Head",
+ "line": [""],
+ "begin": [0],
+ "end": [14],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17c4"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["I wanna be in another place"],
+ "begin": [50.7],
+ "end": [52.9],
+ "duration": ["2.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17c5"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["I hate when you say you don't understand"],
+ "begin": [52.8],
+ "end": [57.7],
+ "duration": ["4.9s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [17],
+  "delay": ["3.2s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17c6"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["(You'll see it's not meant to be)"],
+ "begin": [56.6],
+ "end": [58],
+ "duration": ["1.6s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17c7"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["I wanna be in the energy—", " not with the enemy"],
+ "begin": [58, 60.3],
+ "end": [60.3, 62],
+ "duration": ["2.3s", "1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17c8"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["A place for my head"],
+ "begin": [62],
+ "end": [64.8],
+ "duration": ["2.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17c9"
+},
+{
+ "title": "A Place For My Head",
+ "line": [""],
+ "begin": [0],
+ "end": [20],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17ca"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["Maybe someday, I'll be just like you and"],
+ "begin": [64.8],
+ "end": [66.8],
+ "duration": ["2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17cb"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["Step on people like you do and"],
+ "begin": [66.8],
+ "end": [68.4],
+ "duration": ["1.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17cc"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["Run away all the people I thought I knew"],
+ "begin": [68.4],
+ "end": [70.2],
+ "duration": ["1.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17cd"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["I remember back then who you were"],
+ "begin": [70.2],
+ "end": [71.9],
+ "duration": ["1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17ce"
+},
+{
+ "title": "A Place For My Head",
+ "line": [""],
+ "begin": [0],
+ "end": [25],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17cf"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["You used to be calm—", " used to be strong"],
+ "begin": [71.9, 72.7],
+ "end": [72.7, 73.4],
+ "duration": ["0.8s", "0.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17d0"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["Used to be generous,", " but you shoulda known"],
+ "begin": [73.4, 74.3],
+ "end": [74.3, 75.1],
+ "duration": ["0.9s", "0.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17d1"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["That you'd wear out your welcome"],
+ "begin": [75.1],
+ "end": [76.5],
+ "duration": ["1.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17d2"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["And now, you see how quiet it is all alone"],
+ "begin": [76.5],
+ "end": [78.7],
+ "duration": ["2.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17d3"
+},
+{
+ "title": "A Place For My Head",
+ "line": [""],
+ "begin": [0],
+ "end": [30],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17d4"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["I'm so sick of the tension—", " sick of the hunger"],
+ "begin": [78.7, 80.1],
+ "end": [80.1, 81],
+ "duration": ["1.4s", "0.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17d5"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["Sick of you actin' like I owe you this"],
+ "begin": [81],
+ "end": [82.7],
+ "duration": ["1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17d6"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["Find another place to feed your greed"],
+ "begin": [82.7],
+ "end": [84.5],
+ "duration": ["1.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17d7"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["While I find a place to rest"],
+ "begin": [84.5],
+ "end": [86],
+ "duration": ["1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17d8"
+},
+{
+ "title": "A Place For My Head",
+ "line": [""],
+ "begin": [0],
+ "end": [35],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17d9"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["I'm so sick of the tension—", " sick of the hunger"],
+ "begin": [86, 87.4],
+ "end": [87.4, 88.2],
+ "duration": ["1.4s", "0.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17da"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["Sick of you actin' like I owe you this"],
+ "begin": [88.2],
+ "end": [90],
+ "duration": ["1.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17db"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["Find another place to feed your greed"],
+ "begin": [90],
+ "end": [91.8],
+ "duration": ["1.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17dc"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["While I find a place to rest"],
+ "begin": [91.8],
+ "end": [93.3],
+ "duration": ["1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17dd"
+},
+{
+ "title": "A Place For My Head",
+ "line": [""],
+ "begin": [0],
+ "end": [40],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17de"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["I wanna be in another place"],
+ "begin": [94],
+ "end": [96.2],
+ "duration": ["2.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17df"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["I hate when you say you don't understand"],
+ "begin": [96.2],
+ "end": [101.2],
+ "duration": ["5s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [43],
+  "delay": ["3.7s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17e0"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["(You'll see it's not meant to be)"],
+ "begin": [99.9],
+ "end": [101.2],
+ "duration": ["1.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17e1"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["I wanna be in the energy—"," not with the enemy"],
+ "begin": [101.3, 103.6],
+ "end": [103.6, 105.3],
+ "duration": ["2.3s", "1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17e2"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["A place for my head"],
+ "begin": [105.3],
+ "end": [108],
+ "duration": ["2.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17e3"
+},
+{
+ "title": "A Place For My Head",
+ "line": [""],
+ "begin": [0],
+ "end": [46],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17e4"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["You"," try to take the best of me—","go away"],
+ "begin": [108, 108.8, 110.7],
+ "end": [108.8, 110.7, 111.8],
+ "duration": ["0.8s", "1.9s", "1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17e5"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["You ", "try to take the best of me—","go away"],
+ "begin": [111.8, 112.4, 114.4],
+ "end": [112.4, 114.4, 115.3],
+ "duration": ["0.6s","2s", "1.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17e6"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["You", " try to take the best of me—", "go away"],
+ "begin": [115.3, 116.1, 117.9],
+ "end": [116.1, 117.9, 118.9],
+ "duration": ["0.8s", "1.8s", "1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17e7"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["You", " try to take the best of me—", "go away"],
+ "begin": [118.9, 119.7, 121.5],
+ "end": [119.7, 121.5, 122.6],
+ "duration": ["0.8s", "1.8s", "1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17e8"
+},
+{
+ "title": "A Place For My Head",
+ "line": [""],
+ "begin": [0],
+ "end": [51],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17e9"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["You", "try to take the best of me—", "go away"],
+ "begin": [122.6, 123.4, 125.1],
+ "end": [123.4, 125.1, 126.1],
+ "duration": ["0.8s", "1.7s", "1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17ea"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["You ", "try to take the best of me—","go away"],
+ "begin": [126.1, 126.9, 128.7],
+ "end": [126.9, 128.7, 129.6],
+ "duration": ["0.8s", "1.8s", "0.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17eb"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["You ", "try to take the best of me—", "go away"],
+ "begin": [129.6, 130.4, 132.3],
+ "end": [130.4, 132.3, 133.2],
+ "duration": ["0.8s", "1.9s", "0.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17ec"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["You ", "try to take the best of me—", "go away"],
+ "begin": [133.2, 134, 135.9],
+ "end": [134, 135.9, 138.8],
+ "duration": ["0.8s", "1.9s", "2.9s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [57],
+  "delay": ["3.9s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17ed"
+},
+{
+ "title": "A Place For My Head",
+ "line": [""],
+ "begin": [0],
+ "end": [56],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17ee"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["I wanna be in another place"],
+ "begin": [137.3],
+ "end": [139.5],
+ "duration": ["2.2s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17ef"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["I hate when you say you don't understand"],
+ "begin": [139.5],
+ "end": [144.3],
+ "duration": ["4.8s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [59],
+  "delay": ["3.3s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17f0"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["(You'll see it's not meant to be)"],
+ "begin": [143],
+ "end": [144.4],
+ "duration": ["1.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17f1"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["I wanna be in the energy—", "not with the enemy"],
+ "begin": [144.4, 146.8],
+ "end": [146.8, 148.5],
+ "duration": ["2.4s", "1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17f2"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["A place for my head"],
+ "begin": [148.5],
+ "end": [151.1],
+ "duration": ["2.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17f3"
+},
+{
+ "title": "A Place For My Head",
+ "line": [""],
+ "begin": [0],
+ "end": [62],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17f4"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["Stay","", " a","", "way"],
+ "begin": [154.8, 156, 158.5, 160, 162],
+ "end": [156, 158.5, 160, 162, 165.3],
+ "duration": ["2.2s", "2.5s", "1.5s", "2s", "3.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17f5"
+},
+{
+ "title": "A Place For My Head",
+ "line": [""],
+ "begin": [0],
+ "end": [64],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17f6"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["I am so sick of the tension—", "sick of the hunger"],
+ "begin": [165.3, 166.6],
+ "end": [166.6, 167.5],
+ "duration": ["1.3s", "0.9s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [66],
+  "delay": ["0.3s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17f8"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["(Stay) "],
+ "begin": [165.8],
+ "end": [166.6],
+ "duration": ["0.8s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17f7"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["Sick of you actin' like I owe you this"],
+ "begin": [167.5],
+ "end": [169.3],
+ "duration": ["1.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17f9"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["Find another place to feed your greed"],
+ "begin": [169.3],
+ "end": [171],
+ "duration": ["1.7s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [69],
+  "delay": ["0s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17fb"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["(A)"],
+ "begin": [169.3],
+ "end": [170.4],
+ "duration": ["1.1s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17fa"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["While I find a place to rest"],
+ "begin": [171],
+ "end": [172.5],
+ "duration": ["1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17fc"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["I'm so sick of the tension—", "sick of the hunger"],
+ "begin": [172.6, 173.9],
+ "end": [173.9, 174.8],
+ "duration": ["1.3s", "0.9s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [72],
+  "delay": ["0.3s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17ff"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["(Way)"],
+ "begin": [172.9],
+ "end": [174.3],
+ "duration": ["1.2s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17fe"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["Sick of you actin' like I owe you this"],
+ "begin": [174.8],
+ "end": [176.5],
+ "duration": ["1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1800"
+},
+{
+ "title": "A Place For My Head",
+ "line": [""],
+ "begin": [0],
+ "end": [74],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17fd"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["Find another place to feed your greed "],
+ "begin": [176.5],
+ "end": [178],
+ "duration": ["1.7s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [76, 77],
+  "delay": ["0.1s", "1.5s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1802"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["(Stay away from me)"],
+ "begin": [176.6],
+ "end": [179.2],
+ "duration": ["2.4s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1801"
+},
+{
+ "title": "A Place For My Head",
+ "line": ["While I find a place to rest"],
+ "begin": [178],
+ "end": [181],
+ "duration": ["3s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1803"
+},
+{
+ "title": "A Place For My Head",
+ "line": [""],
+ "begin": [0],
+ "end": [71],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17fd"
+}
+]

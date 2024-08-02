@@ -1,0 +1,750 @@
+[
+{
+ "title": "Given Up",
+ "line": [
+  "Wake in a sweat again"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  0
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff8d"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "Another day's been laid to waste, in my disgrace"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  1
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff8e"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "Stuck in my head again"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  2
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff8f"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "Feels like I'll never leave this place, there's no escape"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  3
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff90"
+},
+{
+ "title": "Given Up",
+ "line": [
+  ""
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  4
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff91"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "I'm my own worst enemy"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  5
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff92"
+},
+{
+ "title": "Given Up",
+ "line": [
+  ""
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  6
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff93"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "I've given up, I'm sick of feelin'"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  7
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff94"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "Is there nothin' you can say?"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  8
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff95"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "Take this all away, I'm suffocatin'"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  9
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff96"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "Tell me what the fuck is wrong with me"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  10
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff97"
+},
+{
+ "title": "Given Up",
+ "line": [
+  ""
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  11
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff98"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "I don't know what to take"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  12
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff99"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "Thought I was focused but I'm scared, I'm not prepared"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  13
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff9a"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "I hyperventilate"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  14
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff9b"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "Lookin' for help somehow, somewhere and no one cares"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  15
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff9c"
+},
+{
+ "title": "Given Up",
+ "line": [
+  ""
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  16
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff9d"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "I'm my own worst enemy"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  17
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff9e"
+},
+{
+ "title": "Given Up",
+ "line": [
+  ""
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  18
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ff9f"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "I've given up, I'm sick of feelin'"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  19
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ffa0"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "Is there nothin' you can say?"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  20
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ffa1"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "Take this all away, I'm suffocatin'"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  21
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ffa2"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "Tell me what the fuck is wrong with me"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  22
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ffa3"
+},
+{
+ "title": "Given Up",
+ "line": [
+  ""
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  23
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ffa4"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "God!"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  24
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ffa5"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "Put me out of my misery!"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  25
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ffa6"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "Put me out of my misery!"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  26
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ffa7"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "Put me out of my, put me out of my"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  27
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ffa8"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "Fucking misery!"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  28
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ffa9"
+},
+{
+ "title": "Given Up",
+ "line": [
+  ""
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  29
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ffaa"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "I've given up, I'm sick of feelin'"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  30
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ffab"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "Is there nothin' you can say?"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  31
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ffac"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "Take this all away, I'm suffocatin'"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  32
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ffad"
+},
+{
+ "title": "Given Up",
+ "line": [
+  "Tell me what the fuck is wrong with me"
+ ],
+ "begin": [
+  0
+ ],
+ "end": [
+  33
+ ],
+ "duration": [
+  "0s"
+ ],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "661362d09e7d4f9b8346ffae"
+}
+]

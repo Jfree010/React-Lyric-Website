@@ -1,0 +1,170 @@
+[
+{
+ "title": "Cure For The Itch",
+ "line": ["Folks, we have a very special guest for you tonight"],
+ "begin": [5],
+ "end": [8.1],
+ "duration": ["3.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17aa"
+},
+{
+ "title": "Cure For The Itch",
+ "line": ["I'd like to introduce..."],
+ "begin": [8.7],
+ "end": [10.4],
+ "duration": ["1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17ab"
+},
+{
+ "title": "Cure For The Itch",
+ "line": ["Mr. Hahn"],
+ "begin": [10.4],
+ "end": [13.6],
+ "duration": ["3.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17ac"
+},
+{
+ "title": "Cure For The Itch",
+ "line": [""],
+ "begin": [0],
+ "end": [3],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17ad"
+},
+{
+ "title": "Cure For The Itch",
+ "line": ["Let's hear it for the great (Mr. Hahn)"],
+ "begin": [20.6],
+ "end": [23.2],
+ "duration": ["2.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17ae"
+},
+{
+ "title": "Cure For The Itch",
+ "line": [""],
+ "begin": [0],
+ "end": [5],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17af"
+},
+{
+ "title": "Cure For The Itch",
+ "line": ["And now for a lesson in rhythm management"],
+ "begin": [33.3],
+ "end": [37.8],
+ "duration": ["4.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17b0"
+},
+{
+ "title": "Cure For The Itch",
+ "line": ["Let's begin"],
+ "begin": [40.5],
+ "end": [41.8],
+ "duration": ["1.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17b1"
+},
+{
+ "title": "Cure For The Itch",
+ "line": [""],
+ "begin": [0],
+ "end": [8],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17b2"
+},
+{
+ "title": "Cure For The Itch",
+ "line": ["Alright now, wasn't that fun?"],
+ "begin": [50.4],
+ "end": [52.5],
+ "duration": ["2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17b3"
+},
+{
+ "title": "Cure For The Itch",
+ "line": ["Let's try something else"],
+ "begin": [52.5],
+ "end": [54.3],
+ "duration": ["1.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17b4"
+},
+{
+ "title": "Cure For The Itch",
+ "line": [""],
+ "begin": [0],
+ "end": [11],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d17b5"
+}
+]

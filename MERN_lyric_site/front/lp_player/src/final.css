@@ -1,0 +1,1069 @@
+:root {
+    --animation-duration: 1s;
+    --animation-delay: 0s;
+    --primary-color: yellow;
+    --secondary-color: blue;
+    --error: #e7195a;
+    --steps: 5;
+  }
+  
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    padding: 0;
+    margin: 0;
+    background-color: #2B2E34;
+    color: white;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  .bottom {
+    padding-bottom: 6rem;
+  }
+  
+  .globalLink {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .bottomline {
+    border-bottom: 1px solid #000; /* Adjust the color and thickness as needed */
+    padding-bottom: 10px; /* Optional: Add some padding for spacing */
+    margin-bottom: 20px; /* Optional: Add some margin to separate it from other elements */
+  }
+  
+  .w_bottomline {
+    border-bottom: 1px solid white; /* Adjust the color and thickness as needed */
+    padding-bottom: 10px; /* Optional: Add some padding for spacing */
+    margin-bottom: 20px; /* Optional: Add some margin to separate it from other elements */
+  }
+  
+  .verticalline_left {
+    border-left: 1px solid #000; /* Adjust the color and thickness as needed */
+    height: 100%; /* Adjust the height as needed */
+    margin-right: 20px; /* Optional: Add some margin to separate it from other elements */
+  }
+  
+  /*navbar*/
+  
+  .main {
+    display: unset;
+  }
+  
+  nav{
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+    z-index: 1;
+  }
+  
+  .navbar{
+    display: flex;
+    background-color: #3E4249;
+    padding: 0rem;
+    width: 100%;
+  }
+  
+  .navLink {
+    color: white;
+    text-decoration: none;
+    margin: 0rem;
+    padding: 1.5rem 3rem;
+    /* background-color: aquamarine; */
+  }
+  
+  .navLink:hover {
+    background-color: grey;
+  }
+  
+  .navSearch {
+    margin-left: auto;
+    display: flex;
+    align-self: center;
+    padding-right: 1rem;
+  }
+  
+  /*Search Bar*/
+  .search-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-box {
+    display: flex;
+    font-size: 20px;
+  }
+  
+  .search-box input[type=text] {
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 15px 0 0 15px;
+    width: 300px;
+    outline: none;
+  }
+  
+  .search-box button {
+    padding: 0.5rem 1.2rem 0.3rem 1.2rem;
+    background: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 0 15px 15px 0;
+  }
+  
+  .search-box button:hover {
+    background-color: lightblue;
+  }
+  
+  
+  /*Album Page*/
+  .alist {
+    display: grid;
+    grid-template-columns: repeat(3, 400px);
+    grid-gap: 3em;
+    color: white;
+    padding-top: 2%;
+    justify-content: center;
+  }
+  
+  .abox {
+    background-color: black;
+    border-radius: 15px;
+    position: relative;
+    transition-property: all;
+    transition: 0.5s;
+    top: 0;
+    padding: 5%;
+  }
+  
+  .abox:hover {
+    top: -20px;
+    box-shadow: 10px 10px 5px #1C1E22;
+  }
+  
+  .aboxText {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 5%;
+  }
+  
+  .abox img {
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+  }
+  
+  /* Track List */
+  
+  .tlist {
+    display: grid;
+    grid-template-columns: repeat(1);
+    grid-gap: 0.5em;
+    padding: 1%;
+    justify-items: flex-start;
+  }
+  
+  .ttrack {
+    background-color: black;
+    margin: 0% 10%;
+    width: 80%;
+    /* padding-right: 80%; */
+    justify-content: first baseline;
+  }
+  
+  .tlink {
+    display: flex;
+    padding: 1%;
+    /* background-color: green; */
+  }
+  
+  .tlink:hover {
+    color: black;
+    background-color: white;
+  }
+  
+  .ttrack img {
+    height: 50px;
+    background-color: green;
+    border-radius: 5%;
+    object-fit: contain;
+  }
+  
+  .ttitle {
+    /* background-color: blue; */
+    font-size: 20px;
+    font-weight: bold;
+    align-self: center;
+    padding: 1%;
+    margin-left: 2%;
+  }
+  
+  .tbox {
+    /* background-color: green; */
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .tboxright {
+    /* background-color: red; */
+    align-self: center;
+    margin-left: auto;
+    padding: 1% 10% 1% 1%;
+  }
+  
+  /* drop down */
+  /* Style the dropdown button */
+  .dropbtn {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Dropdown button on hover & focus */
+  .dropbtn:hover, .dropbtn:focus {
+    background-color: #2980b9;
+  }
+  
+  /* Style the dropdown content */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Show the dropdown content when the dropdown button is hovered over */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  /* Style the links inside the dropdown */
+  .dropdown-content button {
+    background-color: black;
+    width: 100%;
+    color: white;
+    padding: 12px 16px;
+    border: none;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content button:hover {
+    background-color: darkgray;
+  }
+  
+  
+  /* song page */
+  
+  .spage {
+    /* background-color: red; */
+    display: flex;
+    padding: 1%;
+    width: 100%;
+  }
+  
+  .songbox {
+    /* background-color: blue; */
+    top: 86px;
+    width: 45%;
+    position: sticky;
+    align-self: flex-start;
+    overflow: hidden;
+  }
+  
+  .sbutton {
+    display: flex;
+    width: 95%;
+    /* background-color: green; */
+    justify-content: space-between;
+    
+  }
+  
+  .sbutton button {
+    background-color: transparent;
+    color: grey;
+    border: none;
+  }
+  
+  .sbutton button:hover {
+    color: rgba(223, 59, 56, 0.859);
+    filter: drop-shadow(3px 5px 2px rgb(0 0 0 / 0.4));
+  }
+  
+  .singmode button {
+    color: red;
+    filter: drop-shadow(3px 5px 2px rgb(0 0 0 / 0.4));
+  }
+  
+  /* Text Color selector */
+  .clr {
+    display: flex;
+    justify-content: center;
+    padding-right: 40px;
+    /* padding-top: 5px; */
+    top: -40px;
+    position: relative;
+    /* background-color: green; */
+    width: 47%;
+  }
+  
+  .clr_back, .clr_front {
+    position: absolute;
+  }
+  
+  .clr_back {
+    /* background-color: blue; */
+    /* margin-left: 41px; */
+    /* margin-right: 50px; */
+    width: 40%;
+  }
+  
+  .clr_choice {
+    transition: transform 0.3s ease;
+    background-color: black;
+    transform: translateX(0px);
+    padding: 0.7rem;
+    display: flex;
+    align-items: center;
+    color: white;
+    border: none;
+  }
+  
+  .clr_p:hover {
+    transform: translateX(-67px);
+  }
+  
+  .clr_s:hover {
+    transform: translateX(-80px); 
+  }
+  
+  .clr_choice span {
+    /* padding-bottom: 6px; */
+    padding-left: 10px;
+  }
+  
+  .clr_selected {
+    background-color: red;
+  }
+  
+  .clr_front {
+    background-color: green;
+    /* z-index: 10; */
+  }
+  
+  .clr_box {
+    display: flex;
+    align-items: center;
+  }
+  
+  .clr_box input {
+    display: block;
+    box-sizing: border-box;
+    width: 90px;
+    margin: 20px;
+    padding: 6px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background: #eee;
+    outline: none;
+    font: inherit;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  
+  
+  /* Text Animation selector*/
+  .txt {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background-color: black;
+    width: 40%;
+    margin-left: 120px;
+  }
+  
+  .txt h4, h5 {
+    align-self: center;
+    margin: 10px;
+  }
+  
+  .txt_inside {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 40px;
+    gap: 5px;
+  }
+  
+  .txt_side {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 50%;
+  }
+  
+  .txt_choice, .txt_selected {
+    border: none;
+    width: 100%;
+    padding: 5px;
+    color: white;
+    background-color: black;
+  }
+  
+  .txt_choice:hover {
+    background-color: grey;
+  }
+  
+  .txt_selected {
+    background-color: red;
+  }
+  
+  .txt_selected:hover {
+    background-color: rgba(223, 59, 56, 0.859);;
+  }
+  
+  .songlyrics {
+    /* background-color: green; */
+    width: 50%;
+    padding-bottom: 55px;
+    /* padding-left: 5%; */
+  }
+  
+  .stext {
+    background-color: black;
+    border-radius: 10px;
+    text-align: center;
+    padding: 2%;
+  }
+  
+  .sline {
+    display: inline-block;
+    /* background-color: green; */
+  }
+  /*sing a long */
+  
+  
+  /* .highlight:hover {
+    animation: in var(--animation-duration) ease;
+    box-shadow: inset 600px 0 0 0 yellow;
+    
+  } */
+  
+  /* Login/Signup Pages */
+  form.signup, form.login {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background: black;
+    border-radius: 15px;
+  }
+  
+  form.signup label, form.signup input, form.login label, form.login input {
+    display: block;
+  }
+  form.signup input, form.login input {
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input.error {
+    border: 1px solid var(--error);
+  }
+  
+  div.error {
+    padding: 10px;
+    background: #ffefef;
+    border: 1px solid var(--error);
+    color: var(--error);
+    border-radius: 4px;
+    margin: 20px 0;
+  }
+  
+  form.signup button, form.login button {
+    background: #3E4249;
+    border: 0;
+    color: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .logup button{
+    background-color: green;
+  }
+  
+  form.signup button:hover, form.login button:hover {
+    background-color: grey;
+  }
+  
+  form.signup h2, form.login h2 {
+    text-align: center;
+  }
+  
+  /*Profile Page*/
+  
+  .prof {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr); /* Adjusted to match the number of areas */
+    grid-template-areas: 
+      "a a a a b b b b b"
+      "a a a a c c c c c"
+      "a a a a c c c c c"
+      "d d d d c c c c c";
+    width: 80%;
+    /* margin: 1rem auto;  */
+    gap: 1rem;
+  }
+  
+  .pfp {
+    background-color: green;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px; /* Added height to maintain aspect ratio */
+    justify-self: center;
+    grid-area: a;
+  }
+  
+  .logout {
+    background-color: black;
+    color: white;
+    border: none;
+    width: 100px;
+    height: 40px;
+    padding: 5px;
+    grid-area: d;
+    justify-self: center;
+  }
+  
+  .logout:hover {
+    background-color: grey;
+  }
+  
+  .pname {
+    /* Adjust styles as needed */
+    grid-area: b;
+  }
+  
+  .pdesc {
+    /* Adjust styles as needed */
+    grid-area: c;
+  }
+  
+  
+  .pset {
+    /* background-color: orange; */
+    margin: 1rem 0.5rem;
+    /* overflow: hidden; */
+  }
+  
+  .ptitlerow {
+    display: flex;
+    align-items: center;
+  }
+  
+  .ptitlerow span {
+    /* background-color: green; */
+    margin-right: 10px;
+  }
+  
+  .pset h2 {
+    padding-left: 1rem;
+    position: relative;
+  }
+  
+  .pscroll {
+    display: flex;
+  }
+  
+  .ptrack {
+    display: flex;
+  }
+  
+  .plist {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    /* background-color: green; */
+    margin: 10px 10px 10px 0px;
+    position: relative;
+    transition-property: all;
+    transition: 0.5s;
+    top: 0;
+  }
+  
+  .plist img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .plist h5 {
+    align-self: center;
+  }
+  
+  .plist:hover {
+    /* box-shadow: 10px 10px 5px #1C1E22; */
+    background-color: grey;
+    top: -10px;
+  }
+  
+  .pbuttons {
+    transition: all 0.5s ease;
+    /* align-content: center; */
+    margin-top: 9px;
+  }
+  
+  .pbuttons button {
+    height: 100%;
+    color: white;
+    background-color: transparent;
+    border: none;
+  }
+  
+  .pbuttons button:hover {
+    background-color: grey;
+  }
+  
+  /* Add/Remove Playlist screen */
+  .overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+  }
+  
+  .playbox {
+    background-color: rgb(43, 41, 41);
+    width: 300px;
+    height: 400px;
+    padding: 5px;
+    z-index: 20; /* Ensure it is above the overlay */
+  }
+  
+  .playbox_picks {
+    display: flex;
+    justify-content: space-between; /* Ensures elements are spaced evenly */
+    align-items: center;
+    /* background-color: blue; */
+    padding: 0 5px;
+    margin-bottom: 2px;
+  }
+  
+  .playbox_scrollable {
+    height: 295px;;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+  }
+  
+  .playbox_new {
+    display: flex;
+    /* margin-top: -22px; */
+  }
+  
+  .playbox_button {
+    margin-right: 10px;
+  }
+  
+  .playbox_head {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .playbox_center {
+    align-self: center;
+  }
+  
+  .playbox_pick_choice {
+    display: flex;
+  }
+  
+  .playbox_pick_choice .playbox_center {
+    margin-top: 7px;
+    margin-right: 5px;
+  }
+  
+  /* Playlist page */
+  
+  .playList_box {
+    display: flex;
+    width: 100%;
+  }
+  
+  .playList_D {
+    display: flex;
+    flex-direction: column;
+    flex: 30%;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  
+  .playList_D img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    justify-self: center;
+  }
+  
+  .playList_desc {
+    padding-top: 10px;
+  }
+  
+  .playList_desc h4 {
+    margin: 0;
+  }
+  
+  .playList_L {
+    flex: 70%;
+    margin-left: 25px;
+    padding-left: 10px;
+    /* background-color: green; */
+  }
+  
+  .playList_L_head {
+    display: flex;
+    margin: 5px 0;
+  }
+  
+  .playList_L_head button {
+    margin-left: 10px;
+    color: white;
+    background-color: black;
+    width: 100px;
+    height: 50px;
+    align-self: center;
+  }
+  
+  .playList_M {
+    display: flex;
+    background-color: black;
+    margin-bottom: 5px;
+  }
+  
+  .playList_M_width {
+    width: 70%;
+  }
+  
+  .playList_M_box {
+    display: flex;
+    /* background-color: green; */
+    width: 270%;
+  }
+  
+  .playList_M .globalLink {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .playList_M_box h4 {
+    align-self: center;
+    padding-left: 5px;
+  }
+  
+  .playList_M img {
+    width: 80px;
+    padding: 10px;
+  }
+  
+  .playList_M:hover {
+    background-color: white;
+  }
+  
+  .playList_M:hover h4 {
+    color: black;
+  }
+  
+  .scrollable {
+    height: 550px; /* Set the height as needed */
+    overflow-y: scroll; /* Enable vertical scrolling */
+  }
+  
+  /* Queue */
+  
+  .queue_bar {
+    position: fixed;
+    background-color: black;
+    bottom: 0;
+    width: 100%;
+    height: 55px;
+    overflow: hidden;
+    z-index: 10;
+    display: flex;
+    align-items: center; /* Center items vertically */
+    justify-content: space-evenly; /* Center items horizontally */
+    border-top: white 2px solid;
+    overflow: visible;
+  }
+  
+  .queue_item {
+    display: flex;
+    /* flex-grow: 1; */
+    /* background-color: orange; */
+  }
+  
+  
+  .queue_center {
+    justify-content: center;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+    width: 50%;
+  }
+  
+  .queue_c {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .queue_circle {
+    display: inline-block;
+    border-radius: 50%; /* Make it round */
+    width: 70px; /* Set button width */
+    height: 70px; /* Set button height */
+    font-size: 20px; /* Adjust font size */
+    text-align: center; /* Center text horizontally */
+    line-height: 60px; /* Center text vertically */
+    text-decoration: none; /* Remove underline */
+    cursor: pointer; /* Add cursor pointer */
+    margin-bottom: 15px;
+    z-index: 2;
+  }
+  
+  .queue_circle svg {
+    left: 10px;
+    transform: translateY(13%) translateX(1%);
+  }
+  
+  .qbutton {
+    background-color: black;
+    /* border: none; */
+    color:white;
+    position: relative;
+  }
+  
+  .qbutton:hover {
+    background-color: white;
+    color: black;
+  }
+  
+  .queue_back {
+    padding: 2px 10px;
+    z-index: 1;
+    margin-right: -14px;
+  }
+  
+  .queue_front {
+    padding: 2px 10px 2px 12px;
+    z-index: 1;
+    margin-left: -15px;
+  }
+  
+  
+  .queue_right {
+    /* background-color: purple; */
+    width: 25%;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .queue_left {
+    /* background-color: green; */
+    width: 25%;
+  }
+  
+  .queue_l img {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+  }
+  
+  .queue_l_img {
+    /* width: 40px; */
+    height: 39px;
+    border: #fff 3px solid;
+    border-radius: 15%;
+  }
+  
+  .queue_l {
+    display: flex;  
+    align-items: center;
+  }
+  
+  .queue_l h3 {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  
+  .queue_l_container {
+    width: 100%; /* Full width */
+    overflow: hidden; /* Hide overflow */
+    white-space: nowrap; /* Prevent text wrapping */
+  }
+  
+  .scrolling-text {
+    display: inline-block; /* Display inline */
+    animation: scrollLeft 10s linear infinite; /* Animation settings */
+    animation-delay: 2s;
+  }
+  
+  @keyframes scrollLeft {
+    0% {
+        transform: translateX(100%); /* Start position */
+    }
+  
+    80% {
+      transform: translateX(-100%); /* End position */
+    }
+  
+    100% {
+        transform: translateX(-200%); /* End position */
+    }
+  }
+  
+  .qlist {
+    position: fixed;
+    background-color: black;
+    border: white 2px solid;
+    bottom: -600px;
+    right: 65px;
+    width: 30%;
+    height: 600px;
+    overflow: hidden;
+    z-index: 5;
+    display: flex;
+    padding: 10px;
+  }
+  
+  .qlist_raise {
+    animation: slideIn 1s forwards;
+  }
+  
+  @keyframes slideIn {
+    0% {
+      bottom: -600px;
+    }
+    100% {
+      bottom: 0; 
+    }
+  }
+  
+  .qlist_lower {
+    animation: slideOut 1s forwards;
+  }
+  
+  @keyframes slideOut {
+    0% {
+      bottom: 0;
+    }
+    100% {
+      bottom: -600px; 
+    }
+  }
+  
+  .qlist_play {
+    width: 100%;
+  }
+  
+  .qlist_head {
+    display: flex;
+  }
+  
+  .qlist_head button {
+    margin-left: 10px;
+    color: white;
+    background-color: black;
+    width: 100px;
+    height: 50px;
+    align-self: center;
+  }
+  
+  .q_scrollable {
+    height: 420px; /* Set the height as needed */
+    overflow-y: scroll; /* Enable vertical scrolling */
+  }
+  
+  .qlist_width {
+    width: 100%;
+  }
+  
+  .checkbox {
+    width: 200.7px; /* 223px * 0.9 */
+    height: 54px; /* 60px * 0.9 */
+    background-color: #d0d0d0;
+    border-radius: 27px; /* 30px * 0.9 */
+    position: relative;
+    color: black;
+    overflow: hidden;
+    align-self: center;
+    margin-left: 9px; /* 10px * 0.9 */
+  }
+  
+  #checkbox_toggle {
+    display: none;
+  }
+  
+  .checkbox .toggle {
+    width: 90px; /* 100px * 0.9 */
+    height: 45px; /* 50px * 0.9 */
+    position: absolute;
+    border-radius: 27px; /* 30px * 0.9 */
+    left: 4.5px; /* 5px * 0.9 */
+    cursor: pointer;
+    background: linear-gradient(40deg, #FF0080, #FF8C00 70%);
+    transition: 0.4s;
+    box-shadow: 0px 0px 2.7px rgb(255, 255, 20), /* 3px * 0.9 */
+                0px 0px 4.5px rgb(255, 255, 20); /* 5px * 0.9 */
+  }
+  
+  .checkbox .slide {
+    width: 207px; /* 230px * 0.9 */
+    height: 54px; /* 60px * 0.9 */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+  }
+  
+  
+  .checkbox .slide .text {
+    font-size: 16px;
+    font-weight: 700;
+    z-index: 100;
+    cursor: pointer;
+  }
+  
+  .check:checked + .checkbox .slide .toggle {
+    transform: translateX(101.7px);
+    background: linear-gradient(40deg, #8983F7, #A3DAFB 70%);
+    box-shadow: -0px -0px 10px #8983F7, -0px -0px 3px #8983F7;
+  }
+  
+  .check:checked + .checkbox .slide {
+    background-color: #0a1929;
+    color: #fff;
+  }

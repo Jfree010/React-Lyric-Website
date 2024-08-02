@@ -1,0 +1,1474 @@
+[
+{
+ "title": "Forgotten",
+ "line": ["From the top to the bottom "],
+ "begin": [0],
+ "end": [1.2],
+ "duration": ["1.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1855"
+},
+{
+ "title": "Forgotten",
+ "line": ["(Bottom to top, I stop)"],
+ "begin": [1.2],
+ "end": [2.3],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1856"
+},
+{
+ "title": "Forgotten",
+ "line": ["At the core, I've forgotten "],
+ "begin": [2.3],
+ "end": [3.4],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1857"
+},
+{
+ "title": "Forgotten",
+ "line": ["(In the middle of my thoughts)"],
+ "begin": [3.4],
+ "end": [4.5],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1858"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [0],
+ "end": [4],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1859"
+},
+{
+ "title": "Forgotten",
+ "line": ["Taken far from my safety "],
+ "begin": [4.5],
+ "end": [5.7],
+ "duration": ["1.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d185a"
+},
+{
+ "title": "Forgotten",
+ "line": ["(The picture's there)"],
+ "begin": [5.7],
+ "end": [6.9],
+ "duration": ["1.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d185b"
+},
+{
+ "title": "Forgotten",
+ "line": ["The memory won't escape me "],
+ "begin": [6.9],
+ "end": [8],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d185c"
+},
+{
+ "title": "Forgotten",
+ "line": ["(But why should I care?)"],
+ "begin": [8],
+ "end": [8.9],
+ "duration": ["0.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d185d"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [0],
+ "end": [9],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d185e"
+},
+{
+ "title": "Forgotten",
+ "line": ["From the top to the bottom "],
+ "begin": [8.9],
+ "end": [9.9],
+ "duration": ["1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d185f"
+},
+{
+ "title": "Forgotten",
+ "line": ["(Bottom to top, I stop)"],
+ "begin": [9.9],
+ "end": [11.1],
+ "duration": ["1.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1860"
+},
+{
+ "title": "Forgotten",
+ "line": ["At the core, I've forgotten "],
+ "begin": [11.1],
+ "end": [12.2],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1861"
+},
+{
+ "title": "Forgotten",
+ "line": ["(In the middle of my thoughts)"],
+ "begin": [12.2],
+ "end": [13.3],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1862"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [0],
+ "end": [0],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1863"
+},
+{
+ "title": "Forgotten",
+ "line": ["Taken far from my safety "],
+ "begin": [13.3],
+ "end": [14.6],
+ "duration": ["1.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1864"
+},
+{
+ "title": "Forgotten",
+ "line": ["(The picture's there)"],
+ "begin": [14.6],
+ "end": [15.7],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1865"
+},
+{
+ "title": "Forgotten",
+ "line": ["The memory won't escape me "],
+ "begin": [15.7],
+ "end": [16.8],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1866"
+},
+{
+ "title": "Forgotten",
+ "line": ["(But why should I care?)"],
+ "begin": [16.8],
+ "end": [17.8],
+ "duration": ["1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1867"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [0],
+ "end": [0],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1868"
+},
+{
+ "title": "Forgotten",
+ "line": ["There's a place so dark, you can't see the end"],
+ "begin": [17.8],
+ "end": [19.9],
+ "duration": ["2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1869"
+},
+{
+ "title": "Forgotten",
+ "line": ["(Skies cock back)", " And shock that which can't defend"],
+ "begin": [19.9, 20.8],
+ "end": [20.8, 22],
+ "duration": ["0.9s", "2.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d186a"
+},
+{
+ "title": "Forgotten",
+ "line": ["The rain then sends dripping ", "acidic questions"],
+ "begin": [22, 23.5],
+ "end": [23.5, 24.6],
+ "duration": ["1.5s", "1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d186b"
+},
+{
+ "title": "Forgotten",
+ "line": ["Forcefully, ", "the power of suggestion"],
+ "begin": [24.6, 25.2],
+ "end": [25.2, 26.4],
+ "duration": ["0.6s", "0.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d186c"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [0],
+ "end": [24],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d186d"
+},
+{
+ "title": "Forgotten",
+ "line": ["Then with the eyes shut, ", "lookin' through the rust and rot, and dust"],
+ "begin": [26.4, 27.4],
+ "end": [27.4, 29.2],
+ "duration": ["1s", "1.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d186e"
+},
+{
+ "title": "Forgotten",
+ "line": ["A small spot of light floods the floor"],
+ "begin": [29.2],
+ "end": [31.2],
+ "duration": ["2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d186f"
+},
+{
+ "title": "Forgotten",
+ "line": ["And pours over the rusted world of pretend"],
+ "begin": [31.2],
+ "end": [33.3],
+ "duration": ["2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1870"
+},
+{
+ "title": "Forgotten",
+ "line": ["And the eyes ease open, and it's dark again"],
+ "begin": [33.3],
+ "end": [35.5],
+ "duration": ["2.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1871"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [0],
+ "end": [29],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1872"
+},
+{
+ "title": "Forgotten",
+ "line": ["From the top to the bottom "],
+ "begin": [35.5],
+ "end": [36.6],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1873"
+},
+{
+ "title": "Forgotten",
+ "line": ["(Bottom to top, I stop)"],
+ "begin": [36.6],
+ "end": [37.7],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1874"
+},
+{
+ "title": "Forgotten",
+ "line": ["At the core, I've forgotten "],
+ "begin": [37.7],
+ "end": [38.8],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1875"
+},
+{
+ "title": "Forgotten",
+ "line": ["(In the middle of my thoughts)"],
+ "begin": [38.8],
+ "end": [39.9],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1876"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [0],
+ "end": [34],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1877"
+},
+{
+ "title": "Forgotten",
+ "line": ["Taken far from my safety "],
+ "begin": [39.9],
+ "end": [41],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1878"
+},
+{
+ "title": "Forgotten",
+ "line": ["(The picture's there)"],
+ "begin": [41],
+ "end": [42.1],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1879"
+},
+{
+ "title": "Forgotten",
+ "line": ["The memory won't escape me "],
+ "begin": [42.1],
+ "end": [43.2],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d187a"
+},
+{
+ "title": "Forgotten",
+ "line": ["(But why should I care?)"],
+ "begin": [43.2],
+ "end": [44.6],
+ "duration": ["1.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d187b"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [0],
+ "end": [39],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d187c"
+},
+{
+ "title": "Forgotten",
+ "line": ["In the memory, you'll find me"],
+ "begin": [45],
+ "end": [49.6],
+ "duration": ["4.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d187d"
+},
+{
+ "title": "Forgotten",
+ "line": ["Eyes burning up"],
+ "begin": [49.6],
+ "end": [53.6],
+ "duration": ["4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d187e"
+},
+{
+ "title": "Forgotten",
+ "line": ["The darkness holding me tightly"],
+ "begin": [53.6],
+ "end": [58.2],
+ "duration": ["4.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d187f"
+},
+{
+ "title": "Forgotten",
+ "line": ["Until the sun ", "rises up"],
+ "begin": [58.2, 59.9],
+ "end": [59.9, 63.2],
+ "duration": ["1.7s", "3.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1880"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [0],
+ "end": [44],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1881"
+},
+{
+ "title": "Forgotten",
+ "line": ["Movin' all around, ", "screamin' of the ups and downs"],
+ "begin": [66.3, 67.3],
+ "end": [67.3, 69],
+ "duration": ["1s", "1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1882"
+},
+{
+ "title": "Forgotten",
+ "line": ["Pollution manifested in perpetual sound"],
+ "begin": [69],
+ "end": [71.2],
+ "duration": ["2.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1883"
+},
+{
+ "title": "Forgotten",
+ "line": ["The wheels go round ", "and the sunset creeps"],
+ "begin": [71.2, 72.1],
+ "end": [72.1, 73],
+ "duration": ["0.9s", "0.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1884"
+},
+{
+ "title": "Forgotten",
+ "line": ["Behind street lamps, ", "chain-link, and concrete"],
+ "begin": [73, 74.3],
+ "end": [74.3, 75.6],
+ "duration": ["1.3s", "1.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1885"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [0],
+ "end": [53],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d188a"
+},
+{
+ "title": "Forgotten",
+ "line": ["A little piece of paper with a picture drawn"],
+ "begin": [75.6],
+ "end": [77.6],
+ "duration": ["2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1886"
+},
+{
+ "title": "Forgotten",
+ "line": ["Floats on down the street ", "'til the wind is gone"],
+ "begin": [77.6, 78.8],
+ "end": [78.8, 79.8],
+ "duration": ["1.2s", "1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1887"
+},
+{
+ "title": "Forgotten",
+ "line": ["And the memory now is like the picture was then"],
+ "begin": [79.8],
+ "end": [82.2],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1888"
+},
+{
+ "title": "Forgotten",
+ "line": ["When the paper's crumpled up, it can't be perfect again"],
+ "begin": [82.2],
+ "end": [84.3],
+ "duration": ["2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1889"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [0],
+ "end": [53],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d188a"
+},
+{
+ "title": "Forgotten",
+ "line": ["From the top to the bottom "],
+ "begin": [84.3],
+ "end": [85.4],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d188b"
+},
+{
+ "title": "Forgotten",
+ "line": ["(Bottom to top, I stop)"],
+ "begin": [85.4],
+ "end": [86.5],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d188c"
+},
+{
+ "title": "Forgotten",
+ "line": ["At the core, I've forgotten "],
+ "begin": [86.5],
+ "end": [87.7],
+ "duration": ["1.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d188d"
+},
+{
+ "title": "Forgotten",
+ "line": ["(In the middle of my thoughts)"],
+ "begin": [87.7],
+ "end": [88.8],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d188e"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [0],
+ "end": [58],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d188f"
+},
+{
+ "title": "Forgotten",
+ "line": ["Taken far from my safety "],
+ "begin": [88.8],
+ "end": [90],
+ "duration": ["1.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1890"
+},
+{
+ "title": "Forgotten",
+ "line": ["(The picture's there)"],
+ "begin": [90],
+ "end": [91.1],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1891"
+},
+{
+ "title": "Forgotten",
+ "line": ["The memory won't escape me "],
+ "begin": [91.1],
+ "end": [92.4],
+ "duration": ["1.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1892"
+},
+{
+ "title": "Forgotten",
+ "line": ["(But why should I care?)"],
+ "begin": [92.3],
+ "end": [93.3],
+ "duration": ["1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1893"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [0],
+ "end": [63],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1894"
+},
+{
+ "title": "Forgotten",
+ "line": ["From the top to the bottom "],
+ "begin": [93.4],
+ "end": [94.5],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1895"
+},
+{
+ "title": "Forgotten",
+ "line": ["(Bottom to top, I stop)"],
+ "begin": [94.5],
+ "end": [95.6],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1896"
+},
+{
+ "title": "Forgotten",
+ "line": ["At the core, I've forgotten "],
+ "begin": [95.6],
+ "end": [96.6],
+ "duration": ["1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1897"
+},
+{
+ "title": "Forgotten",
+ "line": ["(In the middle of my thoughts)"],
+ "begin": [96.6],
+ "end": [97.7],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1898"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [0],
+ "end": [68],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1899"
+},
+{
+ "title": "Forgotten",
+ "line": ["Taken far from my safety "],
+ "begin": [97.7],
+ "end": [98.9],
+ "duration": ["1.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d189a"
+},
+{
+ "title": "Forgotten",
+ "line": ["(The picture's there)"],
+ "begin": [98.9],
+ "end": [100],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d189b"
+},
+{
+ "title": "Forgotten",
+ "line": ["The memory won't escape me "],
+ "begin": [100],
+ "end": [101.2],
+ "duration": ["1.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d189c"
+},
+{
+ "title": "Forgotten",
+ "line": ["(But why should I care?)"],
+ "begin": [101.2],
+ "end": [102.6],
+ "duration": ["1.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d189d"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [0],
+ "end": [73],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d189e"
+},
+{
+ "title": "Forgotten",
+ "line": ["In the memory, you'll find me"],
+ "begin": [102.9],
+ "end": [107.3],
+ "duration": ["4.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d189f"
+},
+{
+ "title": "Forgotten",
+ "line": ["Eyes burning up"],
+ "begin": [107.3],
+ "end": [111.3],
+ "duration": ["4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18a0"
+},
+{
+ "title": "Forgotten",
+ "line": ["The darkness holding me tightly"],
+ "begin": [111.5],
+ "end": [115.9],
+ "duration": ["4.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18a1"
+},
+{
+ "title": "Forgotten",
+ "line": ["Until the sun ", "rises up"],
+ "begin": [115.9, 117.5],
+ "end": [117.5, 120.8],
+ "duration": ["1.6s", "3.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18a2"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [0],
+ "end": [78],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18a3"
+},
+{
+ "title": "Forgotten",
+ "line": ["Now you got me caught in the act, you bring the thought back"],
+ "begin": [124.4],
+ "end": [127],
+ "duration": ["2.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18a4"
+},
+{
+ "title": "Forgotten",
+ "line": ["Tellin' you that I see it right through you"],
+ "begin": [127],
+ "end": [128.9],
+ "duration": ["1.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18a5"
+},
+{
+ "title": "Forgotten",
+ "line": ["Now you got me caught in the act, you bring the thought back"],
+ "begin": [128.9],
+ "end": [131.5],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18a6"
+},
+{
+ "title": "Forgotten",
+ "line": ["Tellin' you that I see it right through you"],
+ "begin": [131.5],
+ "end": [133.4],
+ "duration": ["1.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18a7"
+},
+{
+ "title": "Forgotten",
+ "line": ["Now you got me caught in the act, you bring the thought back"],
+ "begin": [133.4],
+ "end": [135.8],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18a8"
+},
+{
+ "title": "Forgotten",
+ "line": ["Tellin' you that I see it right through you"],
+ "begin": [135.8],
+ "end": [137.7],
+ "duration": ["1.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18a9"
+},
+{
+ "title": "Forgotten",
+ "line": ["Now you got me caught in the act, you bring the thought back"],
+ "begin": [137.7],
+ "end": [140.1],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18aa"
+},
+{
+ "title": "Forgotten",
+ "line": ["Tellin' you that I see it right through you"],
+ "begin": [140.1],
+ "end": [142],
+ "duration": ["1.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18ab"
+},
+{
+ "title": "Forgotten",
+ "line": ["Now you got me caught in the act, you bring the thought back"],
+ "begin": [142],
+ "end": [144.4],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18ac"
+},
+{
+ "title": "Forgotten",
+ "line": ["Tellin' you that I see it right through you"],
+ "begin": [144.4],
+ "end": [146.3],
+ "duration": ["1.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18ad"
+},
+{
+ "title": "Forgotten",
+ "line": ["Now you got me caught in the act, you bring the thought back"],
+ "begin": [146.3],
+ "end": [148.7],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18ae"
+},
+{
+ "title": "Forgotten",
+ "line": ["Tellin' you that I see it right through you"],
+ "begin": [148.7],
+ "end": [151.1],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18af"
+},
+{
+ "title": "Forgotten",
+ "line": ["Now you got me caught in the act, you bring the thought back"],
+ "begin": [151.1],
+ "end": [153.5],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18b0"
+},
+{
+ "title": "Forgotten",
+ "line": ["Tellin' you that I see it right through you"],
+ "begin": [153.5],
+ "end": [155.9],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18b1"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [0],
+ "end": [93],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18b2"
+},
+{
+ "title": "Forgotten",
+ "line": ["In the memory, you'll find me"],
+ "begin": [156.2],
+ "end": [160.6],
+ "duration": ["4.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18b3"
+},
+{
+ "title": "Forgotten",
+ "line": ["Eyes burning up"],
+ "begin": [160.6],
+ "end": [164.6],
+ "duration": ["4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18b4"
+},
+{
+ "title": "Forgotten",
+ "line": ["The darkness holding me tightly"],
+ "begin": [164.6],
+ "end": [169],
+ "duration": ["4.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18b5"
+},
+{
+ "title": "Forgotten",
+ "line": ["Until the sun ", "rises up"],
+ "begin": [169, 170.9],
+ "end": [170.9, 173.7],
+ "duration": ["1.9s", "2.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18b6"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [
+  0],
+ "end": [98],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18b7"
+},
+{
+ "title": "Forgotten",
+ "line": ["In the memory, ", "you will find me"],
+ "begin": [173.8, 175.7],
+ "end": [175.7, 177.8],
+ "duration": ["1.9s", "1.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18b8"
+},
+{
+ "title": "Forgotten",
+ "line": ["Eyes burning up"],
+ "begin": [178.3],
+ "end": [182.4],
+ "duration": ["4.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18b9"
+},
+{
+ "title": "Forgotten",
+ "line": ["The darkness holding me tightly"],
+ "begin": [182.4],
+ "end": [186.7],
+ "duration": ["4.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18ba"
+},
+{
+ "title": "Forgotten",
+ "line": ["Until the sun ", "rises up"],
+ "begin": [186.7, 188.5],
+ "end": [188.5, 192.7],
+ "duration": ["1.8s", "4.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18bb"
+},
+{
+ "title": "Forgotten",
+ "line": [""],
+ "begin": [
+  0],
+ "end": [98],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18b7"
+}
+]

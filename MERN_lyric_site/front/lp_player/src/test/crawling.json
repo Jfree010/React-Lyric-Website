@@ -1,0 +1,129 @@
+[{
+    "line": ["Crawling in my skin"],
+    "begin": 23.3,
+    "end": 27.8,
+    "duration": "4.5s",
+    "overlapped": 0
+}, {
+    "line": ["These wounds they will not heal"],
+    "begin": 24.8,
+    "end": 32.2,
+    "duration": "4.4s",
+    "overlapped": 0
+}, {
+    "line": ["Fear is how I fall"],
+    "begin": 32.2,
+    "end": 36.6,
+    "duration": "4s",
+    "overlapped": 0
+}, {
+    "line": ["Confusing what is real"],
+    "begin": 36.6,
+    "end": 44.0,
+    "duration": "7.8s",
+    "overlapped": 0
+}, {
+    "line": [""],
+    "begin": 44.0,
+    "end": 51.1,
+    "overlapped": 0
+}, {
+    "line": ["There's something inside me that pulls beneath the surface"],
+    "begin": 51.1,
+    "end": 55.9,
+    "duration": "4.8s",
+    "overlapped": 0
+}, {
+    "line": ["Consuming,", " confusing"],
+    "begin": 55.9,
+    "end": 60.3,
+    "duration": "4.5s",
+    "overlapped": 0
+}, {
+    "line": ["This lack of self control I fear is never ending"],
+    "begin": 60.3,
+    "end": 64.6,
+    "duration": "4.3s",
+    "overlapped": 0
+}, {
+    "line": ["Controlling, I can't seem"],
+    "begin": 64.8,
+    "end": 69.8,
+    "duration": "5.0s",
+    "overlapped": 0
+}, {
+    "line": [""],
+    "begin": 69.8,
+    "end": 69.89,
+    "overlapped": 0
+}, {
+    "line": ["To find myself again"],
+    "begin": 69.9,
+    "end": 72.1,
+    "duration": "2.2s",
+    "overlapped": 0
+}, {
+    "line": ["My walls are closing in"],
+    "begin": 72.1,
+    "end": 78.8,
+    "duration": "6.6s",
+    "overlapped": 1,
+    "overlap": {
+        "with": [12],
+        "delay": ["1.8s"],
+        "color": ["green"]
+    }
+}, {
+    "line": ["(Without a sense of confidence I'm convinced that there's just too much pressure to take)"],
+    "begin": 73.9,
+    "end": 78.9,
+    "duration": "5.0s",
+    "overlapped": 2
+}, {
+    "line": ["I've felt this way before"],
+    "begin": 78.9,
+    "end": 81.2,
+    "duration": "2.3s",
+    "overlapped": 0
+}, {
+    "line": ["So insecure"],
+    "begin": 81.2,
+    "end": 87.3,
+    "duration": "5.9s",
+    "overlapped": 0
+}, {
+    "line": [""],
+    "begin": 87.3,
+    "end": 87.31,
+    "overlapped": 0
+}, {
+    "line": ["Crawling in my skin"],
+    "begin": 87.31,
+    "end": 91.8,
+    "duration": "4.49s",
+    "overlapped": 0
+}, {
+    "line": ["These wounds they will not heal"],
+    "begin": 91.8,
+    "end": 96.2,
+    "duration": "4.4s",
+    "overlapped": 0
+}, {
+    "line": ["Fear is how I fall"],
+    "begin": 96.2,
+    "end": 100.2,
+    "duration": "4s",
+    "overlapped": 0
+}, {
+    "line": ["Confusing what is real"],
+    "begin": 100.2,
+    "end": 108.0,
+    "duration": "7.8s",
+    "overlapped": 0
+}, {
+    "line": [""],
+    "begin": 44.0,
+    "end": 51.1,
+    "overlapped": 0
+}
+]

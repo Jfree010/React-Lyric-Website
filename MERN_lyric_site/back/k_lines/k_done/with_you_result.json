@@ -1,0 +1,982 @@
+[
+{
+ "title": "With You",
+ "line": ["I woke up in a dream today"],
+ "begin": [30.7],
+ "end": [32.3],
+ "duration": ["1.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289aa"
+},
+{
+ "title": "With You",
+ "line": ["To the cold of the static", " and put my cold feet on the floor"],
+ "begin": [32.3, 33.8],
+ "end": [33.8, 35.3],
+ "duration": ["1.5s", "1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289ab"
+},
+{
+ "title": "With You",
+ "line": ["Forgot all about yesterday"],
+ "begin": [35.4],
+ "end": [37.15],
+ "duration": ["1.75s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289ac"
+},
+{
+ "title": "With You",
+ "line": ["Remembering I'm pretending to be where I'm not anymore"],
+ "begin": [37.15],
+ "end": [40.2],
+ "duration": ["3.05s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289ad"
+},
+{
+ "title": "With You",
+ "line": ["A little taste of hypocrisy"],
+ "begin": [40.2],
+ "end": [42.1],
+ "duration": ["2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289ae"
+},
+{
+ "title": "With You",
+ "line": ["And I'm left in the wake of the mistake"," slow to react"],
+ "begin": [42.1, 44.1],
+ "end": [44.1, 45.1],
+ "duration": ["2s", "1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289af"
+},
+{
+ "title": "With You",
+ "line": ["Even though you're so close to me"],
+ "begin": [45.1],
+ "end": [47],
+ "duration": ["1.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289b0"
+},
+{
+ "title": "With You",
+ "line": ["You're still so distant"," and I can't bring you back"],
+ "begin": [47, 48.5],
+ "end": [48.5, 50],
+ "duration": ["1.5s", "1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289b1"
+},
+{
+ "title": "With You",
+ "line": [""],
+ "begin": [0],
+ "end": [8],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289b2"
+},
+{
+ "title": "With You",
+ "line": ["It's true", " the way I feel"],
+ "begin": [50, 51.8],
+ "end": [51.8, 54.8],
+ "duration": ["1.8s", "3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289b3"
+},
+{
+ "title": "With You",
+ "line": ["Was promised by your face"],
+ "begin": [54.8],
+ "end": [59.6],
+ "duration": ["4.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289b5"
+},
+{
+ "title": "With You",
+ "line": ["The sound of your voice"],
+ "begin": [59.6],
+ "end": [63.65],
+ "duration": ["4.05s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289b6"
+},
+{
+ "title": "With You",
+ "line": ["Painted on my memories"],
+ "begin": [63.65],
+ "end": [66],
+ "duration": ["2.35s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289b7"
+},
+{
+ "title": "With You",
+ "line": ["Even if you're not with me"],
+ "begin": [66],
+ "end": [68.9],
+ "duration": ["2.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289b8"
+},
+{
+ "title": "With You",
+ "line": [""],
+ "begin": [0],
+ "end": [14],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289ba"
+},
+{
+ "title": "With You",
+ "line": ["I'm with", " you"],
+ "begin": [68.9, 70.25],
+ "end": [70.25, 74.3],
+ "duration": ["1.35s", "4.05s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [16, 17],
+  "delay": ["2.2s", "3.8s"],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289b9"
+},
+{
+ "title": "With You",
+ "line": ["You!", "", " Now I see"],
+ "begin": [71.1, 71.59, 71.6],
+ "end": [71.59, 71.6, 72.7],
+ "duration": ["0.5s", "0.01s", "0.9s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289bb"
+},
+{
+ "title": "With You",
+ "line": ["Keeping everything inside"],
+ "begin": [72.7],
+ "end": [74.5],
+ "duration": ["1.8s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289bd"
+},
+{
+"title": "With You",
+"line": ["With you"],
+"begin": [74.4],
+"end": [79.3],
+"duration": ["4.9s"],
+"overlapped": 1,
+"overlap": {
+    "with": [19, 20],
+    "delay": ["1.5s", "3.1s"],
+    "color": []
+},
+"_id": "65f6877fa0e692a3ac6289bd"
+},
+{
+ "title": "With You",
+ "line": ["You!","", " Now I see"],
+ "begin": [75.9, 76.49, 76.5],
+ "end": [76.49, 76.5, 77.5],
+ "duration": ["0.6s", "0.01s", "1s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289be"
+},
+{
+ "title": "With You",
+ "line": ["Even when I close my eyes"],
+ "begin": [77.5],
+ "end": [79.2],
+ "duration": ["1.7s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289c0"
+},
+{
+ "title": "With You",
+ "line": [""],
+ "begin": [0],
+ "end": [21],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289c1"
+},
+{
+ "title": "With You",
+ "line": ["I hit you and you hit me back"],
+ "begin": [79.2],
+ "end": [81.3],
+ "duration": ["2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289c2"
+},
+{
+ "title": "With You",
+ "line": ["We fall to the floor", "—the rest of the day stands still"],
+ "begin": [81.3, 82.4],
+ "end": [82.4, 84.3],
+ "duration": ["1.1s", "1.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289c3"
+},
+{
+ "title": "With You",
+ "line": ["Fine line between this and that"],
+ "begin": [84.3],
+ "end": [85.9],
+ "duration": ["1.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289c4"
+},
+{
+ "title": "With You",
+ "line": ["When things go wrong I pretend the past isn't real"],
+ "begin": [85.9],
+ "end": [89.25],
+ "duration": ["3.35s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289c5"
+},
+{
+ "title": "With You",
+ "line": ["I'm trapped in this memory"],
+ "begin": [89.25],
+ "end": [91],
+ "duration": ["1.75s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289c6"
+},
+{
+ "title": "With You",
+ "line": ["And I'm left in the wake of the mistake,", " slow to react"],
+ "begin": [91, 92,8],
+ "end": [92.8, 93.9],
+ "duration": ["1.8s", "0.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289c7"
+},
+{
+ "title": "With You",
+ "line": ["So even though you're close to me"],
+ "begin": [93.9],
+ "end": [95.85],
+ "duration": ["1.95s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289c8"
+},
+{
+ "title": "With You",
+ "line": ["You're still so distant", " and I can't bring you back"],
+ "begin": [95.85, 97.1],
+ "end": [97.1, 98.8],
+ "duration": ["1.25s", "1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289c9"
+},
+{
+ "title": "With You",
+ "line": [""],
+ "begin": [0],
+ "end": [30],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289ca"
+},
+{
+ "title": "With You",
+ "line": ["It's true", " the way I feel"],
+ "begin": [98.8, 100.6],
+ "end": [100.6, 103.4],
+ "duration": ["1.2s", "3.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289cb"
+},
+{
+ "title": "With You",
+ "line": ["Was promised by your face"],
+ "begin": [103.4],
+ "end": [108.5],
+ "duration": ["5.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289cd"
+},
+{
+ "title": "With You",
+ "line": ["The sound of your voice"],
+ "begin": [108.5],
+ "end": [112.35],
+ "duration": ["3.85s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289ce"
+},
+{
+ "title": "With You",
+ "line": ["Painted on my memories"],
+ "begin": [112.35],
+ "end": [114.75],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289cf"
+},
+{
+ "title": "With You",
+ "line": ["Even if you're not with me"],
+ "begin": [114.75],
+ "end": [117.7],
+ "duration": ["2.95s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d0"
+},
+{
+ "title": "With You",
+ "line": [""],
+ "begin": [0],
+ "end": [36],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d2"
+},
+{
+ "title": "With You",
+ "line": ["I'm with", " you"],
+ "begin": [117.7, 119],
+ "end": [119, 122.9],
+ "duration": ["1.3s", "3.9s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [38, 39],
+  "delay": ["2.1s", "3.8s"],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d1"
+},
+{
+ "title": "With You",
+ "line": ["You!", "", " Now I see"],
+ "begin": [119.8, 120.29, 120.3],
+ "end": [120.29, 120.3, 121.5],
+ "duration": ["0.49s", "0.01s", "1.2s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d3"
+},
+{
+ "title": "With You",
+ "line": ["Keeping everything inside"],
+ "begin": [121.5],
+ "end": [123.15],
+ "duration": ["1.65s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d2"
+},
+{
+ "title": "With You",
+ "line": ["With you"],
+ "begin": [123.15],
+ "end": [128.15],
+ "duration": ["5s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [41, 42],
+  "delay": ["1.45s", "3.2s"],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d6"
+},
+{
+ "title": "With You",
+ "line": ["You!", ""," Now I see"],
+ "begin": [124.6, 125.14, 125.15],
+ "end": [125.14, 125.15, 126.35],
+ "duration": ["0.54s", "0.01s", "1.2s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d7"
+},
+{
+ "title": "With You",
+ "line": ["Even when I close my eyes"],
+ "begin": [126.35],
+ "end": [128.35],
+ "duration": ["2s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d8"
+},
+{
+ "title": "With You",
+ "line": [""],
+ "begin": [0],
+ "end": [43],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d9"
+},
+{
+ "title": "With You",
+ "line": ["With you"],
+ "begin": [128.35],
+ "end": [132.95],
+ "duration": ["4.8s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [45, 46],
+  "delay": ["1.15s", "2.75s"],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d1"
+},
+{
+ "title": "With You",
+ "line": ["You!", "", " Now I see"],
+ "begin": [129.5, 129.99, 130],
+ "end": [129.99, 130, 131.1],
+ "duration": ["0.49s", "0.01s", "1.1s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d3"
+},
+{
+ "title": "With You",
+ "line": ["Keeping everything inside"],
+ "begin": [131.1],
+ "end": [133.1],
+ "duration": ["2s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d5"
+},
+{
+ "title": "With You",
+ "line": ["With you"],
+ "begin": [133.1],
+ "end": [139.1],
+ "duration": ["6s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [48, 49],
+  "delay": ["1.4s", "3.1s"],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d6"
+},
+{
+ "title": "With You",
+ "line": ["You!", "", " Now I see"],
+ "begin": [134.5, 134.99, 135],
+ "end": [134.99, 135, 136.2],
+ "duration": ["0.49s", "0.01s", "1.2s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d7"
+},
+{
+ "title": "With You",
+ "line": ["Even when I close my eyes"],
+ "begin": [136.2],
+ "end": [138.25],
+ "duration": ["2.05s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d8"
+},
+{
+ "title": "With You",
+ "line": [""],
+ "begin": [0],
+ "end": [50],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d2"
+},
+{
+ "title": "With You",
+ "line": ["No,"," no matter how far we've come"],
+ "begin": [150.9, 151.7],
+ "end": [151.7, 156.6],
+ "duration": ["0.8s", "4.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289da"
+},
+{
+ "title": "With You",
+ "line": ["I can't wait to see tomorrow"],
+ "begin": [156.6],
+ "end": [161.35],
+ "duration": ["4.75s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289db"
+},
+{
+ "title": "With You",
+ "line": ["No matter how far we've come I..."],
+ "begin": [161.35],
+ "end": [166],
+ "duration": ["4.65s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289dc"
+},
+{
+ "title": "With You",
+ "line": ["I can't wait to see tomorrow"],
+ "begin": [166.4],
+ "end": [170.8],
+ "duration": ["4.4s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [56, 57, 58],
+  "delay": ["3.3s", "4.1s", "6.3s"],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289dd"
+},
+{
+ "title": "With You",
+ "line": [""],
+ "begin": [0],
+ "end": [55],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d2"
+},
+{
+ "title": "With You",
+ "line": ["With you"],
+ "begin": [169.7],
+ "end": [174.3],
+ "duration": ["4.6s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289de"
+},
+{
+ "title": "With You",
+ "line": ["You!", ""," Now I see"],
+ "begin": [170.5, 170.99, 171],
+ "end": [170.99, 171, 172.7],
+ "duration": ["0.54s", "0.01s", "1.7s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d7"
+},
+{
+ "title": "With You",
+ "line": ["Keeping everything inside"],
+ "begin": [172.7],
+ "end": [174.4],
+ "duration": ["1.7s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d8"
+},
+{
+ "title": "With You",
+ "line": ["With you"],
+ "begin": [174.4],
+ "end": [179.4],
+ "duration": ["5s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [60, 61],
+  "delay": ["1.5s", "3.3s"],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d6"
+},
+{
+ "title": "With You",
+ "line": ["You!", "", " Now I see"],
+ "begin": [175.9, 176.59, 176.6],
+ "end": [176.59, 176.6, 177.7],
+ "duration": ["0.69s", "0.01s", "1.1s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d7"
+},
+{
+ "title": "With You",
+ "line": ["Even when I close my eyes"],
+ "begin": [177.7],
+ "end": [179.4],
+ "duration": ["1.7s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d8"
+},
+{
+ "title": "With You",
+ "line": [""],
+ "begin": [0],
+ "end": [62],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d2"
+},
+{
+ "title": "With You",
+ "line": ["With you"],
+ "begin": [179.4],
+ "end": [183.9],
+ "duration": ["4.5s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [64, 65],
+  "delay": ["1.3s", "3.1s"],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289de"
+},
+{
+ "title": "With You",
+ "line": ["You!", ""," Now I see"],
+ "begin": [180.7, 181.29, 181.3],
+ "end": [181.29, 181.3, 182.5],
+ "duration": ["0.59s", "0.01s", "1.2s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d7"
+},
+{
+ "title": "With You",
+ "line": ["Keeping everything inside"],
+ "begin": [182.5],
+ "end": [184.25],
+ "duration": ["1.75s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d8"
+},
+{
+ "title": "With You",
+ "line": ["With you"],
+ "begin": [184.25],
+ "end": [190.3],
+ "duration": ["6.05s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [67, 68],
+  "delay": ["1.25s", "3.15s"],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d6"
+},
+{
+ "title": "With You",
+ "line": ["You!", "", " Now I see"],
+ "begin": [185.5, 186.29, 186.3],
+ "end": [186.29, 186.3, 187.4],
+ "duration": ["0.79s", "0.01s", "1.1s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d7"
+},
+{
+ "title": "With You",
+ "line": ["Even when I close my eyes"],
+ "begin": [187.4],
+ "end": [189.6],
+ "duration": ["2.2s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d8"
+},
+{
+ "title": "With You",
+ "line": [""],
+ "begin": [0],
+ "end": [69],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289d2"
+}
+]

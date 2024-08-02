@@ -1,0 +1,1500 @@
+[
+{
+ "title": "High Voltage",
+ "line": ["\"You know what I mean?"],
+ "begin": [3.2],
+ "end": [4],
+ "duration": ["0.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18bc"
+},
+{
+ "title": "High Voltage",
+ "line": ["You could put a label on a life"],
+ "begin": [4],
+ "end": [5.5],
+ "duration": ["1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18bd"
+},
+{
+ "title": "High Voltage",
+ "line": ["Put a label on a lifestyle.\" "],
+ "begin": [5.7],
+ "end": [7],
+ "duration": ["1.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18be"
+},
+{
+ "title": "High Voltage",
+ "line": ["(Sometimes…)"],
+ "begin": [7.4],
+ "end": [10],
+ "duration": ["2.6s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [5],
+  "delay": ["0s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18bf"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [4],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18c0"
+},
+{
+ "title": "High Voltage",
+ "line": ["\"You know, ", "", "put a label on how you wake up every morning"],
+ "begin": [7.4, 8, 8.01],
+ "end": [8, 8.01, 10],
+ "duration": ["0.6s", "0.01s", "2s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18c1"
+},
+{
+ "title": "High Voltage",
+ "line": ["And go to bed at night.\" "],
+ "begin": [10],
+ "end": [11.2],
+ "duration": ["1.2s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [7],
+  "delay": ["0.5s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18c2"
+},
+{
+ "title": "High Voltage",
+ "line": ["(Hybrid)"],
+ "begin": [10.5],
+ "end": [11.4],
+ "duration": ["0.9s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18c3"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [8],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18c4"
+},
+{
+ "title": "High Voltage",
+ "line": ["I've been diggin' into crates, ", "ever since I was livin' in space"],
+ "begin": [11.4, 12.9],
+ "end": [12.9, 14.5],
+ "duration": ["1.5s", "1.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18c5"
+},
+{
+ "title": "High Voltage",
+ "line": ["Before the rat race, ", "before monkeys had human traits"],
+ "begin": [14.5, 15.6],
+ "end": [15.6, 17.1],
+ "duration": ["0.9s", "1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18c6"
+},
+{
+ "title": "High Voltage",
+ "line": ["I mastered numerology and big bang theology"],
+ "begin": [17.1],
+ "end": [19.6],
+ "duration": ["2.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18c7"
+},
+{
+ "title": "High Voltage",
+ "line": ["Performed lobotomies with telekinetic psychology"],
+ "begin": [19.6],
+ "end": [22.5],
+ "duration": ["2.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18c8"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [8],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18c4"
+},
+{
+ "title": "High Voltage",
+ "line": ["Invented the mic so I could start blessin' it"],
+ "begin": [22.5],
+ "end": [24.9],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18c9"
+},
+{
+ "title": "High Voltage",
+ "line": ["Chin-checkin' kids to make my point like an impressionist"],
+ "begin": [24.9],
+ "end": [27.5],
+ "duration": ["2.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18ca"
+},
+{
+ "title": "High Voltage",
+ "line": ["Many men have tried to shake us"],
+ "begin": [27.5],
+ "end": [29.1],
+ "duration": ["1.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18cb"
+},
+{
+ "title": "High Voltage",
+ "line": ["But I twist mic cords to double-helixes"],
+ "begin": [29.1],
+ "end": [31.2],
+ "duration": ["2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18cc"
+},
+{
+ "title": "High Voltage",
+ "line": ["And show them what I'm made of"],
+ "begin": [31.2],
+ "end": [32.7],
+ "duration": ["1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18cd"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [18],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18ce"
+},
+{
+ "title": "High Voltage",
+ "line": ["I buckle knees like leg braces"],
+ "begin": [32.7],
+ "end": [34.5],
+ "duration": ["1.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18cf"
+},
+{
+ "title": "High Voltage",
+ "line": ["Cast a spell of instrumental-ness on all of you MCs who hate us"],
+ "begin": [34.5],
+ "end": [37.6],
+ "duration": ["3.1s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [22],
+  "delay": ["2.6s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18d0"
+},
+{
+ "title": "High Voltage",
+ "line": ["So you can try on, ", "", "leave you without a shoulder to cry on"],
+ "begin": [37.2, 38.4, 38.41],
+ "end": [38.4, 38.41, 40.2],
+ "duration": ["1.2s", "0.01s", "1.79s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18d1"
+},
+{
+ "title": "High Voltage",
+ "line": ["From now to infinity, let icons be bygones"],
+ "begin": [40.2],
+ "end": [43],
+ "duration": ["2.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18d2"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [25],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18d3"
+},
+{
+ "title": "High Voltage",
+ "line": ["I firebomb, ghostly notes haunt this"],
+ "begin": [43],
+ "end": [45.3],
+ "duration": ["2.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18d4"
+},
+{
+ "title": "High Voltage",
+ "line": ["I tried threats, but moved on to a promise"],
+ "begin": [45.3],
+ "end": [47.7],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18d5"
+},
+{
+ "title": "High Voltage",
+ "line": ["I stomp shit, with or without an accomplice"],
+ "begin": [47.7],
+ "end": [50.25],
+ "duration": ["2.55s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18d6"
+},
+{
+ "title": "High Voltage",
+ "line": ["And run the gauntlet with whoever that wants this"],
+ "begin": [50.25],
+ "end": [52.8],
+ "duration": ["2.55s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18d7"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [28],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18d8"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) This is the unforgettable sound"],
+ "begin": [52.8],
+ "end": [55.2],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18d9"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Bringin' you up and takin' you down"],
+ "begin": [55.2],
+ "end": [58],
+ "duration": ["2.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [31],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18da"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Comin' at you from every side"],
+ "begin": [58],
+ "end": [60.4],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18db"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Makin' the rhythm and rhyme collide"],
+ "begin": [60.4],
+ "end": [63],
+ "duration": ["2.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18dc"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [33],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18dd"
+},
+{
+ "title": "High Voltage",
+ "line": ["(Akira)"],
+ "begin": [63],
+ "end": [63.7],
+ "duration": ["0.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18de"
+},
+{
+ "title": "High Voltage",
+ "line": ["I put a kick in the backbones of clones with microphones"],
+ "begin": [63.7],
+ "end": [66.4],
+ "duration": ["2.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18df"
+},
+{
+ "title": "High Voltage",
+ "line": ["Never satisfy my rhyme jones"],
+ "begin": [66.4],
+ "end": [68.2],
+ "duration": ["1.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18e0"
+},
+{
+ "title": "High Voltage",
+ "line": ["Sprayin' bright day over what you might say"],
+ "begin": [68.2],
+ "end": [70.5],
+ "duration": ["2.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18e1"
+},
+{
+ "title": "High Voltage",
+ "line": ["My blood type's Krylon, Technicolor Type-A"],
+ "begin": [70.5],
+ "end": [73.3],
+ "duration": ["2.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18e2"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [8],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18c4"
+},
+{
+ "title": "High Voltage",
+ "line": ["On highways, bright with road rage"],
+ "begin": [73.3],
+ "end": [75.3],
+ "duration": ["2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18e3"
+},
+{
+ "title": "High Voltage",
+ "line": ["Pages of wind in cages of tin that bounce all around"],
+ "begin": [75.3],
+ "end": [78.4],
+ "duration": ["2.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18e4"
+},
+{
+ "title": "High Voltage",
+ "line": ["(Surround sound) ", "Devouring the scene"],
+ "begin": [78.4, 79.4],
+ "end": [79.4, 80.7],
+ "duration": ["1s", "1.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18e5"
+},
+{
+ "title": "High Voltage",
+ "line": ["Subliminal gangrene paintings, overall the same thing"],
+ "begin": [80.7],
+ "end": [83.7],
+ "duration": ["3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18e6"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [43],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18e7"
+},
+{
+ "title": "High Voltage",
+ "line": ["Sing-song karaoke copy bullshit"],
+ "begin": [83.7],
+ "end": [86],
+ "duration": ["2.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18e8"
+},
+{
+ "title": "High Voltage",
+ "line": ["Break bones verbally with sticks-and-stone tactics"],
+ "begin": [86.3],
+ "end": [89.1],
+ "duration": ["2.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18e9"
+},
+{
+ "title": "High Voltage",
+ "line": ["Fourth dimension combat convention"],
+ "begin": [89.1],
+ "end": [91.2],
+ "duration": ["2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18ea"
+},
+{
+ "title": "High Voltage",
+ "line": ["Write rhymes at ease while the track stands at attention"],
+ "begin": [91.2],
+ "end": [93.7],
+ "duration": ["2.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18eb"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [48],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18ec"
+},
+{
+ "title": "High Voltage",
+ "line": ["Meant to put you away ", "with a pencil pistol official"],
+ "begin": [93.7, 95.2],
+ "end": [95.2, 97],
+ "duration": ["1.5s", "1.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18ed"
+},
+{
+ "title": "High Voltage",
+ "line": ["Sixteen-line, the rhyme missile"],
+ "begin": [97],
+ "end": [98.9],
+ "duration": ["1.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18ee"
+},
+{
+ "title": "High Voltage",
+ "line": ["While you risk your all, ", "I pick out all your flaws"],
+ "begin": [98.9, 100],
+ "end": [100, 101.3],
+ "duration": ["1.9s", "1.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18ef"
+},
+{
+ "title": "High Voltage",
+ "line": ["Spittin' rah blah blah blah, ", "you can say you saw"],
+ "begin": [101.3, 102.7],
+ "end": [102.7, 104],
+ "duration": ["1.4s", "1.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18f0"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [53],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18f1"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) This is the unforgettable sound"],
+ "begin": [104],
+ "end": [106.4],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18f2"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Bringin' you up and takin' you down"],
+ "begin": [106.4],
+ "end": [108.9],
+ "duration": ["2.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18f3"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Comin' at you from every side"],
+ "begin": [108.5],
+ "end": [111.4],
+ "duration": ["2.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18f4"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Makin' the rhythm and rhyme collide"],
+ "begin": [111.4],
+ "end": [114],
+ "duration": ["2.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18f5"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [58],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18f6"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) This is the unforgettable sound"],
+ "begin": [114],
+ "end": [116.8],
+ "duration": ["2.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18f7"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Bringin' you up and takin' you down"],
+ "begin": [116.8],
+ "end": [119.1],
+ "duration": ["2.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18f8"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Comin' at you from every side"],
+ "begin": [119.1],
+ "end": [121.7],
+ "duration": ["2.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18f9"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Makin' the rhythm and rhyme collide"],
+ "begin": [121.7],
+ "end": [124.6],
+ "duration": ["2.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18fa"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [63],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18fb"
+},
+{
+ "title": "High Voltage",
+ "line": ["\"And like the rock and rap, ", "you know what I mean?"],
+ "begin": [125.1, 126.4],
+ "end": [126.4, 127.5],
+ "duration": ["1.3s", "1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18fc"
+},
+{
+ "title": "High Voltage",
+ "line": ["People actin' like, you know, \"Wow, that's a new invention!\""],
+ "begin": [127.9],
+ "end": [131.2],
+ "duration": ["3.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18fd"
+},
+{
+ "title": "High Voltage",
+ "line": ["That shit ain't new"],
+ "begin": [131.2],
+ "end": [132.3],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18fe"
+},
+{
+ "title": "High Voltage",
+ "line": ["We're constantly evolving"],
+ "begin": [132.3],
+ "end": [133.6],
+ "duration": ["1.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d18ff"
+},
+{
+ "title": "High Voltage",
+ "line": ["It is constantly changing.\" "],
+ "begin": [133.6],
+ "end": [135],
+ "duration": ["1.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1900"
+},
+{
+ "title": "High Voltage",
+ "line": ["(Sometimes)"],
+ "begin": [135],
+ "end": [136],
+ "duration": ["1s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [73],
+  "delay": ["0s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1901"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [70],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1902"
+},
+{
+ "title": "High Voltage",
+ "line": ["\"There's a lot of change"],
+ "begin": [135],
+ "end": [136.1],
+ "duration": ["1.1s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1903"
+},
+{
+ "title": "High Voltage",
+ "line": ["Everybody's always tryna to put labels on…"],
+ "begin": [136.1],
+ "end": [138],
+ "duration": ["1.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1904"
+},
+{
+ "title": "High Voltage",
+ "line": ["There ain't no label for this shit"],
+ "begin": [138],
+ "end": [139.2],
+ "duration": ["1.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1905"
+},
+{
+ "title": "High Voltage",
+ "line": ["They always gonna try to put a label on it"],
+ "begin": [139.4],
+ "end": [141.2],
+ "duration": ["1.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1906"
+},
+{
+ "title": "High Voltage",
+ "line": ["Try to create somethin' so they could ", "", "water it down\""],
+ "begin": [141.2,142.8, 142.9],
+ "end": [142.8, 142.9, 144.4],
+ "duration": ["1.6s", "0.1s", "1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1907"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [76],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1908"
+},
+{
+ "title": "High Voltage",
+ "line": ["Sometimes, I feel like a prophet"],
+ "begin": [145.2],
+ "end": [148.4],
+ "duration": ["3.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1909"
+},
+{
+ "title": "High Voltage",
+ "line": ["Misunderstood, ", "under the gun ", "like a new disease"],
+ "begin": [148.9, 150.3, 152],
+ "end": [150.3, 152, 155.4],
+ "duration": ["1.4s", "1.7s", "3.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d190a"
+},
+{
+ "title": "High Voltage",
+ "line": ["Sometimes, I feel like a prophet"],
+ "begin": [155.4],
+ "end": [158.6],
+ "duration": ["3.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d190b"
+},
+{
+ "title": "High Voltage",
+ "line": ["Misunderstood, ", "under the gun ", "like a new disease"],
+ "begin": [159, 160.6, 161.9],
+ "end": [160.6, 161.9, 165],
+ "duration": ["1.6s", "1.3s", "3.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d190c"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [81],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d190d"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) This is the unforgettable sound"],
+ "begin": [165],
+ "end": [167.6],
+ "duration": ["2.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d190e"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Bringin' you up and takin' you down"],
+ "begin": [167.6],
+ "end": [170.2],
+ "duration": ["2.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d190f"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Comin' at you from every side"],
+ "begin": [170.2],
+ "end": [172.7],
+ "duration": ["2.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1910"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Makin' the rhythm and rhyme collide"],
+ "begin": [172.7],
+ "end": [175.3],
+ "duration": ["2.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1911"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [86],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1912"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) This is the unforgettable sound"],
+ "begin": [175.3],
+ "end": [177.9],
+ "duration": ["2.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1913"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Bringin' you up and takin' you down"],
+ "begin": [177.9],
+ "end": [180.4],
+ "duration": ["2.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1914"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Comin' at you from every side"],
+ "begin": [180.4],
+ "end": [182.9],
+ "duration": ["2.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1915"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Makin' the rhythm and rhyme collide"],
+ "begin": [182.9],
+ "end": [185.4],
+ "duration": ["2.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1916"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [91],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1917"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) This is the unforgettable sound"],
+ "begin": [185.4],
+ "end": [188.1],
+ "duration": ["2.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1918"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Bringin' you up and takin' you down"],
+ "begin": [188.1],
+ "end": [190.7],
+ "duration": ["2.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1919"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Comin' at you from every side"],
+ "begin": [190.7],
+ "end": [193.1],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d191a"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Makin' the rhythm and rhyme collide"],
+ "begin": [193.1],
+ "end": [195.7],
+ "duration": ["2.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d191b"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [96],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d191c"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) This is the unforgettable sound"],
+ "begin": [195.7],
+ "end": [198.2],
+ "duration": ["2.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d191d"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Bringin' you up and takin' you down"],
+ "begin": [198.2],
+ "end": [200.7],
+ "duration": ["2.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d191e"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Comin' at you from every side"],
+ "begin": [200.7],
+ "end": [203.4],
+ "duration": ["2.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d191f"
+},
+{
+ "title": "High Voltage",
+ "line": ["(High voltage) Makin' the rhythm and rhyme collide"],
+ "begin": [203.4],
+ "end": [206.5],
+ "duration": ["3.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1920"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [101],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1921"
+},
+{
+ "title": "High Voltage",
+ "line": ["\"You know what I mean?"],
+ "begin": [207.4],
+ "end": [208.1],
+ "duration": ["1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1922"
+},
+{
+ "title": "High Voltage",
+ "line": ["You can't put a label on a lifestyle.\""],
+ "begin": [208.1],
+ "end": [209.8],
+ "duration": ["1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1923"
+},
+{
+ "title": "High Voltage",
+ "line": [""],
+ "begin": [0],
+ "end": [76],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1908"
+}
+]

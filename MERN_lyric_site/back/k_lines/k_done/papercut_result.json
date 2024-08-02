@@ -1,0 +1,1047 @@
+[{
+ "title": "Papercut",
+ "line": ["Why does it feel like night today?"],
+ "begin": [22.7],
+ "end": [24.2],
+ "duration": ["1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62897d"
+},
+{
+ "title": "Papercut",
+ "line": ["Something in here's not right today"],
+ "begin": [24.3],
+ "end": [25.8],
+ "duration": ["1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62897e"
+},
+{
+ "title": "Papercut",
+ "line": ["Why am I so uptight today?"],
+ "begin": [25.9],
+ "end": [27.4],
+ "duration": ["1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62897f"
+},
+{
+ "title": "Papercut",
+ "line": ["Paranoia's all I got left"],
+ "begin": [27.4],
+ "end": [29.0],
+ "duration": ["1.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628980"
+},
+{
+ "title": "Papercut",
+ "line": ["I don't know what stressed me first"],
+ "begin": [29.0],
+ "end": [30.3],
+ "duration": ["1.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628981"
+},
+{
+ "title": "Papercut",
+ "line": ["Or how the pressure was fed"],
+ "begin": [30.3],
+ "end": [32.0],
+ "duration": ["1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628982"
+},
+{
+ "title": "Papercut",
+ "line": ["But I know just what it feels like"],
+ "begin": [32.0],
+ "end": [33.5],
+ "duration": ["1.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628983"
+},
+{
+ "title": "Papercut",
+ "line": ["To have a voice in the back of my head"],
+ "begin": [33.5],
+ "end": [35.2],
+ "duration": ["1.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628984"
+},
+{
+  "title": "Papercut",
+  "line": [""],
+  "begin": [],
+  "end": [],
+  "duration": [],
+  "overlapped": 0
+},
+{
+ "title": "Papercut",
+ "line": ["It's like a face that I hold inside"],
+ "begin": [35.2],
+ "end": [36.7],
+ "duration": ["1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628985"
+},
+{
+ "title": "Papercut",
+ "line": ["A face that awakes when I close my eyes"],
+ "begin": [36.7],
+ "end": [38.2],
+ "duration": ["1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628986"
+},
+{
+ "title": "Papercut",
+ "line": ["A face watches every time I lie"],
+ "begin": [38.2],
+ "end": [39.9],
+ "duration": ["1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628987"
+},
+{
+ "title": "Papercut",
+ "line": ["A face that laughs every time I fall"],
+ "begin": [39.9],
+ "end": [41.3],
+ "duration": ["1.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628988"
+},
+{
+ "title": "Papercut",
+ "line": ["(And watches everything)"],
+ "begin": [41.3],
+ "end": [42.6],
+ "duration": ["1.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628989"
+},
+{
+ "title": "Papercut",
+ "line": ["So I know that when it's time to sink or swim"],
+ "begin": [42.6],
+ "end": [44.7],
+ "duration": ["2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62898a"
+},
+{
+ "title": "Papercut",
+ "line": ["That the face inside is hearing me"],
+ "begin": [44.7],
+ "end": [46.6],
+ "duration": ["1.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62898b"
+},
+{
+ "title": "Papercut",
+ "line": ["Right underneath my skin"],
+ "begin": [46.6],
+ "end": [48.1],
+ "duration": ["1.5s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [17],
+  "delay": ["0.8s"],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62898c"
+},
+{
+ "title": "Papercut",
+ "line": [""],
+ "begin": [],
+ "end": [],
+ "duration": [],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62898d"
+},
+{
+ "title": "Papercut",
+ "line": ["It's like I'm"," paranoid lookin' over my back"],
+ "begin": [47.5, 48.7],
+ "end": [48.6, 50.9],
+ "duration": ["0.8s", "2.2s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62898e"
+},
+{
+ "title": "Papercut",
+ "line": ["It's like a", " whirlwind inside of my head"],
+ "begin": [50.9, 51.9],
+ "end": [51.8, 54.0],
+ "duration": ["0.8s", "3.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62898f"
+},
+{
+ "title": "Papercut",
+ "line": ["It's like I", " can't stop what I'm hearing within"],
+ "begin": [54.0, 54.8],
+ "end": [54.8, 57.3],
+ "duration": ["0.8s", "2.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628990"
+},
+{
+ "title": "Papercut",
+ "line": ["It's like the face inside is right", " beneath my skin"],
+ "begin": [57.3, 59.7],
+ "end": [59.7, 62.33],
+ "duration": ["2.4s", "2.63s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [23],
+  "delay": ["3.7s"],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628991"
+},
+{
+ "title": "Papercut",
+ "line": [""],
+ "begin": [0],
+ "end": [21],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628992"
+},
+{
+ "title": "Papercut",
+ "line": ["I know I've got a face in me"],
+ "begin": [61.0],
+ "end": [62.7],
+ "duration": ["1.7s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628993"
+},
+{
+ "title": "Papercut",
+ "line": ["Points out all my mistakes to me"],
+ "begin": [62.7],
+ "end": [64.2],
+ "duration": ["1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628994"
+},
+{
+ "title": "Papercut",
+ "line": ["You've got a face on the inside too"],
+ "begin": [64.2],
+ "end": [65.8],
+ "duration": ["1.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628995"
+},
+{
+ "title": "Papercut",
+ "line": ["And your paranoia's probably worse"],
+ "begin": [65.8],
+ "end": [67.5],
+ "duration": ["1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628996"
+},
+{
+ "title": "Papercut",
+ "line": ["I don't know what set me off first"],
+ "begin": [67.5],
+ "end": [68.85],
+ "duration": ["1.35s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628997"
+},
+{
+ "title": "Papercut",
+ "line": ["But I know what I can't stand"],
+ "begin": [68.85],
+ "end": [70.1],
+ "duration": ["1.25s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628998"
+},
+{
+ "title": "Papercut",
+ "line": ["Everybody acts like the fact of the matter is"],
+ "begin": [70.1],
+ "end": [71.9],
+ "duration": ["1.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628999"
+},
+{
+ "title": "Papercut",
+ "line": ["I can't add up to what you can"],
+ "begin": [71.9],
+ "end": [73.2],
+ "duration": ["1.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62899a"
+},
+{   
+    "title":"Papercut",
+    "line": [""],
+    "begin": [],
+    "end": [],
+    "duration": [],
+    "overlapped": 0
+},
+{
+ "title": "Papercut",
+ "line": ["But everybody has a face that they hold inside"],
+ "begin": [73.2],
+ "end": [75.1],
+ "duration": ["1.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62899b"
+},
+{
+ "title": "Papercut",
+ "line": ["A face that awakes when I close my eyes"],
+ "begin": [75.1],
+ "end": [76.6],
+ "duration": ["1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62899c"
+},
+{
+ "title": "Papercut",
+ "line": ["A face watches every time they lie"],
+ "begin": [76.6],
+ "end": [78.3],
+ "duration": ["1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62899d"
+},
+{
+ "title": "Papercut",
+ "line": ["A face that laughs every time they fall"],
+ "begin": [78.3],
+ "end": [80.0],
+ "duration": ["1.7s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [36],
+  "delay": ["1.2s"],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62899e"
+},
+{
+ "title": "Papercut",
+ "line": ["(And watches everything)"],
+ "begin": [79.5],
+ "end": [81.0],
+ "duration": ["1.5s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62899f"
+},
+{
+ "title": "Papercut",
+ "line": ["So you know that when it's time to sink or swim"],
+ "begin": [81.0],
+ "end": [83.1],
+ "duration": ["2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289a0"
+},
+{
+ "title": "Papercut",
+ "line": ["That the face inside is watching you too"],
+ "begin": [83.1],
+ "end": [85.0],
+ "duration": ["1.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289a1"
+},
+{
+ "title": "Papercut",
+ "line": ["Right inside your skin"],
+ "begin": [85],
+ "end": [86.6],
+ "duration": ["1.6s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [41],
+  "delay": ["1s"],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289a2"
+},
+{
+ "title": "Papercut",
+ "line": [""],
+ "begin": [0],
+ "end": [38],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289a3"
+},
+{
+    "title": "Papercut",
+    "line": ["It's like I'm paranoid lookin' over my back"],
+    "begin": [86.0],
+    "end": [89.2],
+    "duration": ["3.2s"],
+    "overlapped": 2,
+    "overlap": {
+        "with": [],
+        "delay": [],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac62898e"
+    },
+    {
+    "title": "Papercut",
+    "line": ["It's like a", " whirlwind inside of my head"],
+    "begin": [89.2, 90.2],
+    "end": [90.2, 92.5],
+    "duration": ["1s", "2.3s"],
+    "overlapped": 0,
+    "overlap": {
+        "with": [],
+        "delay": [],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac62898f"
+    },
+    {
+    "title": "Papercut",
+    "line": ["It's like I", " can't stop what I'm hearing within"],
+    "begin": [92.5, 93.3],
+    "end": [93.2, 95.7],
+    "duration": ["0.7s", "2.4s"],
+    "overlapped": 0,
+    "overlap": {
+        "with": [],
+        "delay": [],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac628990"
+    },
+    {
+    "title": "Papercut",
+    "line": ["It's like the face inside is right", " beneath my skin"],
+    "begin": [95.7, 98.0],
+    "end": [98.0, 98.9],
+    "duration": ["2.3s", "0.9s"],
+    "overlapped": 0,
+    "overlap": {
+        "with": [],
+        "delay": [],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac628991"
+    },
+{
+ "title": "Papercut",
+ "line": ["It's like I'm paranoid", " lookin' over my back"],
+ "begin": [98.9, 100.4],
+ "end": [100.4, 102.0],
+ "duration": ["1.5s", "1.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62898e"
+},
+{
+ "title": "Papercut",
+ "line": ["It's like a", " whirlwind inside of my head"],
+ "begin": [102.0, 102.9],
+ "end": [102.9, 105.2],
+ "duration": ["0.9s", "2.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62898f"
+},
+{
+ "title": "Papercut",
+ "line": ["It's like I", " can't stop what I'm hearing within"],
+ "begin": [105.2, 106.1],
+ "end": [106.1, 108.9],
+ "duration": ["0.9s", "2.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628990"
+},
+{
+ "title": "Papercut",
+ "line": ["It's like the face inside is right", " beneath my skin"],
+ "begin": [108.9, 110.8],
+ "end": [110.8, 113.25],
+ "duration": ["1.9s", "2.45s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628991"
+},
+{   
+    "title":"Papercut",
+    "line": [""],
+    "begin": [],
+    "end": [],
+    "duration": [],
+    "overlapped": 0
+},
+{
+ "title": "Papercut",
+ "line": ["The face inside is right beneath your skin"],
+ "begin": [113.25],
+ "end": [115.2],
+ "duration": ["1.95s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289a4"
+},
+{
+ "title": "Papercut",
+ "line": ["The face inside is right beneath your skin"],
+ "begin": [116.1],
+ "end": [118.1],
+ "duration": ["2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289a5"
+},
+{
+ "title": "Papercut",
+ "line": ["The face inside is right beneath your skin"],
+ "begin": [119.1],
+ "end": [121.1],
+ "duration": ["2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289a6"
+},
+{
+ "title": "Papercut",
+ "line": [""],
+ "begin": [],
+ "end": [],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289a7"
+},
+{
+ "title": "Papercut",
+ "line": ["The sun", " goes down"],
+ "begin": [124.5, 127.2],
+ "end": [127.2, 131.5],
+ "duration": ["3.5s", "3.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289a8"
+},
+{
+ "title": "Papercut",
+ "line": ["I feel the light betray me"],
+ "begin": [134.2],
+ "end": [137.2],
+ "duration": ["3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac6289a9"
+},
+{
+    "title": "Papercut",
+    "line": ["The sun", " goes down"],
+    "begin": [137.2, 140],
+    "end": [140, 144.2],
+    "duration": ["2.8s", "4.2s"],
+    "overlapped": 0,
+    "overlap": {
+     "with": [],
+     "delay": [],
+     "color": []
+    },
+    "_id": "65f6877fa0e692a3ac6289a8"
+   },
+   {
+    "title": "Papercut",
+    "line": ["I feel the light betray me"],
+    "begin": [147],
+    "end": [150],
+    "duration": ["3s"],
+    "overlapped": 0,
+    "overlap": {
+     "with": [],
+     "delay": [],
+     "color": []
+    },
+    "_id": "65f6877fa0e692a3ac6289a9"
+   },
+   {
+    "title": "Papercut",
+    "line": [""],
+    "begin": [],
+    "end": [],
+    "duration": ["0s"],
+    "overlapped": 0,
+    "overlap": {
+     "with": [],
+     "delay": [],
+     "color": []
+    },
+    "_id": "65f6877fa0e692a3ac6289a7"
+   },
+   {
+    "title": "Papercut",
+    "line": ["The sun"],
+    "begin": [150],
+    "end": [157],
+    "duration": ["7s"],
+    "overlapped": 1,
+    "overlap": {
+     "with": [60, 61, 62],
+     "delay": ["0.1s", "3.2s", "6.5s"],
+     "color": []
+    },
+    "_id": "65f6877fa0e692a3ac6289a8"
+   },
+   {
+    "title": "Papercut",
+    "line": ["It's like I'm paranoid lookin' over my back"],
+    "begin": [150.1],
+    "end": [153.2],
+    "duration": ["3.1s"],
+    "overlapped": 2,
+    "overlap": {
+        "with": [],
+        "delay": [],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac62898e"
+    },
+    {
+    "title": "Papercut",
+    "line": ["It's like a whirlwind inside of my head"],
+    "begin": [153.2],
+    "end": [156.5],
+    "duration": ["3.3s"],
+    "overlapped": 2,
+    "overlap": {
+        "with": [],
+        "delay": [],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac62898f"
+    },
+    {
+    "title": "Papercut",
+    "line": ["It's like I can't stop what I'm hearing within"],
+    "begin": [156.5],
+    "end": [159.6],
+    "duration": ["3.1s"],
+    "overlapped": 2,
+    "overlap": {
+        "with": [],
+        "delay": [],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac628990"
+    },
+    {
+    "title": "Papercut",
+    "line": ["It's like the face inside is right beneath my skin"],
+    "begin": [159.6],
+    "end": [162.8],
+    "duration": ["3.2s"],
+    "overlapped": 1,
+    "overlap": {
+        "with": [64],
+        "delay": [],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac628991"
+    },
+    {
+    "title": "Papercut",
+    "line": ["I feel the light betray me"],
+    "begin": [160],
+    "end": [163],
+    "duration": ["3s"],
+    "overlapped": 2,
+    "overlap": {
+        "with": [],
+        "delay": [],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac628991"
+    },
+{
+    "title": "Papercut",
+    "line": [""],
+    "begin": [],
+    "end": [],
+    "duration": ["0s"],
+    "overlapped": 0,
+    "overlap": {
+        "with": [],
+        "delay": [],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac6289a7"
+    },
+{
+    "title": "Papercut",
+    "line": ["The sun"],
+    "begin": [163],
+    "end": [170],
+    "duration": ["7s"],
+    "overlapped": 1,
+    "overlap": {
+        "with": [67, 68, 69],
+        "delay": ["0s", "3.2s", "6.3s"],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac628991"
+    },
+{
+ "title": "Papercut",
+ "line": ["It's like I'm paranoid lookin' over my back"],
+ "begin": [163],
+ "end": [166.2],
+ "duration": ["3.2s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62898e"
+},
+{
+ "title": "Papercut",
+ "line": ["It's like a whirlwind inside of my head"],
+ "begin": [166.2],
+ "end": [169.3],
+ "duration": ["3.1s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac62898f"
+},
+{
+ "title": "Papercut",
+ "line": ["It's like I can't stop what I'm hearing within"],
+ "begin": [169.3],
+ "end": [172.3],
+ "duration": ["3s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65f6877fa0e692a3ac628990"
+},
+{
+    "title": "Papercut",
+    "line": ["It's like I can't stop what I'm hearing within"],
+    "begin": [172.3],
+    "end": [175.5],
+    "duration": ["3.2s"],
+    "overlapped": 1,
+    "overlap": {
+     "with": [71],
+     "delay": ["0.5s"],
+     "color": []
+    },
+    "_id": "65f6877fa0e692a3ac628990"
+   },
+   {
+    "title": "Papercut",
+    "line": ["I feel the light betray me"],
+    "begin": [172.8],
+    "end": [175.5],
+    "duration": ["2.7s"],
+    "overlapped": 2,
+    "overlap": {
+     "with": [],
+     "delay": [],
+     "color": []
+    },
+    "_id": "65f6877fa0e692a3ac628990"
+   },
+   {
+    "title": "Papercut",
+    "line": [""],
+    "begin": [],
+    "end": [],
+    "duration": ["0s"],
+    "overlapped": 0,
+    "overlap": {
+        "with": [],
+        "delay": [],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac6289a7"
+    },
+   {
+    "title": "Papercut",
+    "line": ["It's like I can't stop what I'm hearing within"],
+    "begin": [175.5],
+    "end": [178.8],
+    "duration": ["3.3s"],
+    "overlapped": 0,
+    "overlap": {
+     "with": [],
+     "delay": [],
+     "color": []
+    },
+    "_id": "65f6877fa0e692a3ac628990"
+   },
+{
+    "title": "Papercut",
+    "line": ["It's like the face inside is right", " beneath my skin"],
+    "begin": [178.8, 181.2],
+    "end": [181.2, 184],
+    "duration": ["2.4s", "2.8s"],
+    "overlapped": 0,
+    "overlap": {
+        "with": [],
+        "delay": [],
+        "color": []
+    },
+    "_id": "65f6877fa0e692a3ac628991"
+    },
+    {
+        "title": "Papercut",
+        "line": [""],
+        "begin": [],
+        "end": [],
+        "duration": ["0s"],
+        "overlapped": 0,
+        "overlap": {
+            "with": [],
+            "delay": [],
+            "color": []
+        },
+        "_id": "65f6877fa0e692a3ac6289a7"
+        }
+]

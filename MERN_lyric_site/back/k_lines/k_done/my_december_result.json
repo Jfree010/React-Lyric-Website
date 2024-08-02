@@ -1,0 +1,940 @@
+[
+{
+ "title": "My December",
+ "line": ["This is my December"],
+ "begin": [20.8],
+ "end": [25.2],
+ "duration": ["4.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d196a"
+},
+{
+ "title": "My December",
+ "line": ["This is my time of the year"],
+ "begin": [25.7],
+ "end": [30.1],
+ "duration": ["4.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d196b"
+},
+{
+ "title": "My December",
+ "line": ["This is my December"],
+ "begin": [30.5],
+ "end": [34.9],
+ "duration": ["4.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d196c"
+},
+{
+ "title": "My December",
+ "line": ["This is all so clear"],
+ "begin": [35.2],
+ "end": [38.6],
+ "duration": ["3.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d196d"
+},
+{
+ "title": "My December",
+ "line": [""],
+ "begin": [0],
+ "end": [4],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d196e"
+},
+{
+ "title": "My December",
+ "line": ["This is my December"],
+ "begin": [40],
+ "end": [44.4],
+ "duration": ["4.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d196f"
+},
+{
+ "title": "My December",
+ "line": ["This is my snow-covered home"],
+ "begin": [44.9],
+ "end": [49.1],
+ "duration": ["4.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1970"
+},
+{
+ "title": "My December",
+ "line": ["This is my December"],
+ "begin": [49.7],
+ "end": [53.7],
+ "duration": ["4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1971"
+},
+{
+ "title": "My December",
+ "line": ["This is me, alone"],
+ "begin": [54.4],
+ "end": [57.1],
+ "duration": ["2.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1972"
+},
+{
+ "title": "My December",
+ "line": [""],
+ "begin": [0],
+ "end": [9],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1973"
+},
+{
+ "title": "My December",
+ "line": ["(And I) "],
+ "begin": [57.2],
+ "end": [62.6],
+ "duration": ["5.4s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [11, 12],
+  "delay": ["2.1s", "3.7s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1974"
+},
+{
+ "title": "My December",
+ "line": ["Just wish that I didn't feel"],
+ "begin": [59.3],
+ "end": [60.9],
+ "duration": ["1.6s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1975"
+},
+{
+ "title": "My December",
+ "line": ["Like there was something I missed"],
+ "begin": [60.9],
+ "end": [62.6],
+ "duration": ["1.7s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1976"
+},
+{
+ "title": "My December",
+ "line": ["(And I) "],
+ "begin": [62.6],
+ "end": [67.1],
+ "duration": ["4.5s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [14, 15],
+  "delay": ["1.5s", "3.1s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1977"
+},
+{
+ "title": "My December",
+ "line": ["Take back all the things I said"],
+ "begin": [64.1],
+ "end": [65.7],
+ "duration": ["1.6s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1978"
+},
+{
+ "title": "My December",
+ "line": ["To make you feel like that"],
+ "begin": [65.7],
+ "end": [67.1],
+ "duration": ["1.4s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1979"
+},
+{
+ "title": "My December",
+ "line": [""],
+ "begin": [0],
+ "end": [16],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d197a"
+},
+{
+ "title": "My December",
+ "line": ["(And I) "],
+ "begin": [67.1],
+ "end": [72.1],
+ "duration": ["5s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [18, 19],
+  "delay": ["1.7s", "3.4s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d197b"
+},
+{
+ "title": "My December",
+ "line": ["Just wish that I didn't feel"],
+ "begin": [68.9],
+ "end": [70.5],
+ "duration": ["1.4s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d197c"
+},
+{
+ "title": "My December",
+ "line": ["Like there was something I missed"],
+ "begin": [70.5],
+ "end": [72.1],
+ "duration": ["1.6s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d197d"
+},
+{
+ "title": "My December",
+ "line": ["(And I) "],
+ "begin": [72.1],
+ "end": [76.1],
+ "duration": ["4s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [21, 22],
+  "delay": ["1.6s", "2.7s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d197e"
+},
+{
+ "title": "My December",
+ "line": ["Take back all the things"],
+ "begin": [73.7],
+ "end": [74.8],
+ "duration": ["1.1s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d197f"
+},
+{
+ "title": "My December",
+ "line": ["That I said to you"],
+ "begin": [74.8],
+ "end": [76.1],
+ "duration": ["1.1s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1980"
+},
+{
+ "title": "My December",
+ "line": [""],
+ "begin": [0],
+ "end": [23],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1981"
+},
+{
+ "title": "My December",
+ "line": ["And I'd ", "give it all away"],
+ "begin": [76.1, 77.3],
+ "end": [77.3, 81],
+ "duration": ["1.2s", "3.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1982"
+},
+{
+ "title": "My December",
+ "line": ["Just to have somewhere to go to"],
+ "begin": [81.7],
+ "end": [86.6],
+ "duration": ["4.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1983"
+},
+{
+ "title": "My December",
+ "line": ["Give it all away"],
+ "begin": [86.8],
+ "end": [90.7],
+ "duration": ["3.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1984"
+},
+{
+ "title": "My December",
+ "line": ["To have someone to come home to"],
+ "begin": [91.7],
+ "end": [96.6],
+ "duration": ["4.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1985"
+},
+{
+ "title": "My December",
+ "line": [""],
+ "begin": [0],
+ "end": [28],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1986"
+},
+{
+ "title": "My December",
+ "line": ["This is my December"],
+ "begin": [97.7],
+ "end": [102.1],
+ "duration": ["4.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1987"
+},
+{
+ "title": "My December",
+ "line": ["These are my snow-covered trees"],
+ "begin": [102.5],
+ "end": [107.2],
+ "duration": ["4.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1988"
+},
+{
+ "title": "My December",
+ "line": ["This is me pretending"],
+ "begin": [107.2],
+ "end": [111.4],
+ "duration": ["4.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1989"
+},
+{
+ "title": "My December",
+ "line": ["This is all I need"],
+ "begin": [112],
+ "end": [115.1],
+ "duration": ["3.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d198a"
+},
+{
+ "title": "My December",
+ "line": [""],
+ "begin": [0],
+ "end": [33],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d198b"
+},
+{
+ "title": "My December",
+ "line": ["(And I) "],
+ "begin": [115.1],
+ "end": [119.6],
+ "duration": ["4.5s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [35, 36],
+  "delay": ["1.7s", "3.4s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d198c"
+},
+{
+ "title": "My December",
+ "line": ["Just wish that I didn't feel"],
+ "begin": [116.8],
+ "end": [118.5],
+ "duration": ["1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d198d"
+},
+{
+ "title": "My December",
+ "line": ["Like there was something I missed"],
+ "begin": [118.5],
+ "end": [119.6],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d198e"
+},
+{
+ "title": "My December",
+ "line": ["(And I) "],
+ "begin": [119.6],
+ "end": [124.3],
+ "duration": ["4.7s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [38, 39],
+  "delay": ["2.1s", "3.8s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d198f"
+},
+{
+ "title": "My December",
+ "line": ["Take back all the things I said"],
+ "begin": [121.7],
+ "end": [123.4],
+ "duration": ["1.7s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1990"
+},
+{
+ "title": "My December",
+ "line": ["To make you feel like that"],
+ "begin": [123.4],
+ "end": [124.3],
+ "duration": ["0.9s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1991"
+},
+{
+ "title": "My December",
+ "line": [""],
+ "begin": [0],
+ "end": [40],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1992"
+},
+{
+ "title": "My December",
+ "line": ["(And I) "],
+ "begin": [124.4],
+ "end": [129.1],
+ "duration": ["4.7s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [42, 43],
+  "delay": ["2.1s", "3.7s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1993"
+},
+{
+ "title": "My December",
+ "line": ["Just wish that I didn't feel"],
+ "begin": [126.5],
+ "end": [128.1],
+ "duration": ["1.6s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1994"
+},
+{
+ "title": "My December",
+ "line": ["Like there was something I missed"],
+ "begin": [128.1],
+ "end": [129.1],
+ "duration": ["1s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1995"
+},
+{
+ "title": "My December",
+ "line": ["(And I) "],
+ "begin": [129.1],
+ "end": [133.7],
+ "duration": ["4.6s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [45, 46],
+  "delay": ["2.1s", "3.4s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1996"
+},
+{
+ "title": "My December",
+ "line": ["Take back all the things"],
+ "begin": [131.2],
+ "end": [132.5],
+ "duration": ["1.3s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1997"
+},
+{
+ "title": "My December",
+ "line": ["That I said to you"],
+ "begin": [132.5],
+ "end": [133.7],
+ "duration": ["1.2s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1998"
+},
+{
+ "title": "My December",
+ "line": [""],
+ "begin": [0],
+ "end": [47],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1999"
+},
+{
+ "title": "My December",
+ "line": ["And I'd ", "give it all away"],
+ "begin": [133.7, 134.8],
+ "end": [134.8, 138.7],
+ "duration": ["1.1s", "3.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d199a"
+},
+{
+ "title": "My December",
+ "line": ["Just to have somewhere to go to"],
+ "begin": [139.6],
+ "end": [144.3],
+ "duration": ["4.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d199b"
+},
+{
+ "title": "My December",
+ "line": ["Give it all away"],
+ "begin": [144.5],
+ "end": [148.5],
+ "duration": ["4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d199c"
+},
+{
+ "title": "My December",
+ "line": ["To have someone to come home to"],
+ "begin": [149.2],
+ "end": [153.9],
+ "duration": ["4.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d199d"
+},
+{
+ "title": "My December",
+ "line": [""],
+ "begin": [0],
+ "end": [52],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d199e"
+},
+{
+ "title": "My December",
+ "line": ["This is my December"],
+ "begin": [155.4],
+ "end": [159.6],
+ "duration": ["4.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d199f"
+},
+{
+ "title": "My December",
+ "line": ["This is my time of the year"],
+ "begin": [160],
+ "end": [164.6],
+ "duration": ["4.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d19a0"
+},
+{
+ "title": "My December",
+ "line": ["This is my December"],
+ "begin": [164.9],
+ "end": [169.1],
+ "duration": ["4.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d19a1"
+},
+{
+ "title": "My December",
+ "line": ["This is all so clear"],
+ "begin": [169.7],
+ "end": [176.4],
+ "duration": ["7.7s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [58],
+  "delay": ["3.6s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d19a2"
+},
+{
+ "title": "My December",
+ "line": [""],
+ "begin": [0],
+ "end": [57],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d19a3"
+},
+{
+ "title": "My December",
+ "line": ["Give it all away"],
+ "begin": [173.3],
+ "end": [177],
+ "duration": ["4.7s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d19a4"
+},
+{
+ "title": "My December",
+ "line": ["Just to have somewhere to go to"],
+ "begin": [178],
+ "end": [182.7],
+ "duration": ["4.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d19a5"
+},
+{
+ "title": "My December",
+ "line": ["Give it all away"],
+ "begin": [182.7],
+ "end": [186.8],
+ "duration": ["4.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d19a6"
+},
+{
+ "title": "My December",
+ "line": ["To have someone to come home to"],
+ "begin": [187.6],
+ "end": [192.3],
+ "duration": ["4.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d19a7"
+},
+{
+ "title": "My December",
+ "line": ["Give it all away"],
+ "begin": [192.3],
+ "end": [196.3],
+ "duration": ["4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d19a8"
+},
+{
+ "title": "My December",
+ "line": ["Just to have somewhere to go to"],
+ "begin": [197.4],
+ "end": [201.8],
+ "duration": ["4.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d19a9"
+},
+{
+ "title": "My December",
+ "line": ["Give it all away"],
+ "begin": [202],
+ "end": [206],
+ "duration": ["4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d19aa"
+},
+{
+ "title": "My December",
+ "line": ["To have someone to come home to"],
+ "begin": [206.7],
+ "end": [211.5],
+ "duration": ["4.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d19ab"
+},
+{
+ "title": "My December",
+ "line": [""],
+ "begin": [0],
+ "end": [57],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d19a3"
+}
+]

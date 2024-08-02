@@ -1,0 +1,744 @@
+[
+{
+ "title": "Runaway",
+ "line": ["Graffiti decorations", " under a sky of dust"],
+ "begin": [31, 33.2],
+ "end": [33.2, 35.3],
+ "duration": ["2.2s", "2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a1f"
+},
+{
+ "title": "Runaway",
+ "line": ["A constant wave of tension", " on top of broken trust"],
+ "begin": [35.3, 37.5],
+ "end": [37.5, 39.6],
+ "duration": ["2.2s", "2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a20"
+},
+{
+ "title": "Runaway",
+ "line": ["The lessons that you taught me,", " I learned were never true"],
+ "begin": [39.6, 41.8],
+ "end": [41.8, 44],
+ "duration": ["2.2s", "2.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a21"
+},
+{
+ "title": "Runaway",
+ "line": [""],
+ "begin": [0],
+ "end": [3],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a22"
+},
+{
+ "title": "Runaway",
+ "line": ["Now I find myself in question"],
+ "begin": [44],
+ "end": [48],
+ "duration": ["4s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [5],
+  "delay": ["2.4s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a23"
+},
+{
+ "title": "Runaway",
+ "line": ["They point the finger at me again"],
+ "begin": [46.4],
+ "end": [48.6],
+ "duration": ["2.2s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a24"
+},
+{
+ "title": "Runaway",
+ "line": ["Guilty by association"],
+ "begin": [48.6],
+ "end": [52.1],
+ "duration": ["3.5s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [7],
+  "delay": ["2.2s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a25"
+},
+{
+ "title": "Runaway",
+ "line": ["You point the finger at me again"],
+ "begin": [50.8],
+ "end": [53],
+ "duration": ["2.2s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a26"
+},
+{
+ "title": "Runaway",
+ "line": [""],
+ "begin": [0],
+ "end": [8],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a27"
+},
+{
+ "title": "Runaway",
+ "line": ["I wanna run away—","never say goodbye"],
+ "begin": [53, 55.4],
+ "end": [55.4, 57.4],
+ "duration": ["2.4s", "2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a28"
+},
+{
+ "title": "Runaway",
+ "line": ["I wanna know the truth"," instead of wondering why"],
+ "begin": [57.4, 59.6],
+ "end": [59.6, 61.8],
+ "duration": ["2.2s", "1.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a29"
+},
+{
+ "title": "Runaway",
+ "line": ["I wanna know the answers—","no more lies"],
+ "begin": [61.8, 64.7],
+ "end": [64.7, 66.2],
+ "duration": ["2.9s", "1.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a2a"
+},
+{
+ "title": "Runaway",
+ "line": ["I wanna shut the door", " and open up my mind"],
+ "begin": [66.2, 68.4],
+ "end": [68.4, 71],
+ "duration": ["2.2s", "2.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a2b"
+},
+{
+ "title": "Runaway",
+ "line": [""],
+ "begin": [0],
+ "end": [13],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a2c"
+},
+{
+ "title": "Runaway",
+ "line": ["Paper bags and angry voices"," under a sky of dust"],
+ "begin": [72.7, 75],
+ "end": [75, 76.9],
+ "duration": ["2.3s", "1.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a2d"
+},
+{
+ "title": "Runaway",
+ "line": ["Another wave of tension", " has more than filled me up"],
+ "begin": [76.9, 79.25],
+ "end": [79.25, 81.3],
+ "duration": ["2.35s", "2.05s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a2e"
+},
+{
+ "title": "Runaway",
+ "line": ["All my talk of taking action,"," these words were never true"],
+ "begin": [81.3, 83.6],
+ "end": [83.6, 85.7],
+ "duration": ["2.3s", "2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a2f"
+},
+{
+ "title": "Runaway",
+ "line": [""],
+ "begin": [ 0],
+ "end": [17],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a30"
+},
+{
+ "title": "Runaway",
+ "line": ["Now I find myself in question"],
+ "begin": [85.7],
+ "end": [89.2],
+ "duration": ["3.5s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [19],
+  "delay": ["2.5s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a31"
+},
+{
+ "title": "Runaway",
+ "line": ["They point the finger at me again"],
+ "begin": [88.2],
+ "end": [90.3],
+ "duration": ["2.1s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a32"
+},
+{
+ "title": "Runaway",
+ "line": ["Guilty by association"],
+ "begin": [90.3],
+ "end": [93.8],
+ "duration": ["3.5s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [21],
+  "delay": ["2.3s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a33"
+},
+{
+ "title": "Runaway",
+ "line": ["You point the finger at me again"],
+ "begin": [92.6],
+ "end": [94.6],
+ "duration": ["2s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a34"
+},
+{
+ "title": "Runaway",
+ "line": [""],
+ "begin": [0],
+ "end": [22],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a35"
+},
+{
+ "title": "Runaway",
+ "line": ["I wanna run away—","never say goodbye"],
+ "begin": [95, 97.1],
+ "end": [97.1, 99.3],
+ "duration": ["2.1s", "2.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a36"
+},
+{
+ "title": "Runaway",
+ "line": ["I wanna know the truth"," instead of wondering why"],
+ "begin": [99.3, 101.5],
+ "end": [101.5, 103.7],
+ "duration": ["2.2s", "2.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a37"
+},
+{
+ "title": "Runaway",
+ "line": ["I wanna know the answers—","no more lies"],
+ "begin": [103.7, 106.5],
+ "end": [106.5, 108.1],
+ "duration": ["2.6s", "1.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a38"
+},
+{
+ "title": "Runaway",
+ "line": ["I wanna shut the door"," and open up my mind"],
+ "begin": [108.1, 110.2],
+ "end": [110.2, 113],
+ "duration": ["2.1s", "2.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a39"
+},
+{
+ "title": "Runaway",
+ "line": [""],
+ "begin": [0],
+ "end": [27],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a3a"
+},
+{
+ "title": "Runaway",
+ "line": ["I'm gonna run away", " and never say goodbye"],
+ "begin": [116.9, 118.8],
+ "end": [118.8, 121.5],
+ "duration": ["1.9s", "2.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a3b"
+},
+{
+ "title": "Runaway",
+ "line": ["Gonna run away, gonna run away"],
+ "begin": [121.5],
+ "end": [123.4],
+ "duration": ["1.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a3c"
+},
+{
+ "title": "Runaway",
+ "line": ["Gonna run away, gonna run away"],
+ "begin": [123.4],
+ "end": [125.5],
+ "duration": ["1.9s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a3d"
+},
+{
+ "title": "Runaway",
+ "line": ["I'm gonna run away"," and never wonder why"],
+ "begin": [125.5, 127.6],
+ "end": [127.6, 130.1],
+ "duration": ["2.1s", "2.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a3e"
+},
+{
+ "title": "Runaway",
+ "line": ["Gonna run away, gonna run away"],
+ "begin": [130.3],
+ "end": [132.1],
+ "duration": ["2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a3f"
+},
+{
+ "title": "Runaway",
+ "line": ["Gonna run away, gonna run away"],
+ "begin": [132.2],
+ "end": [134.4],
+ "duration": ["2.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a40"
+},
+{
+ "title": "Runaway",
+ "line": [""],
+ "begin": [0],
+ "end": [34],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a41"
+},
+{
+ "title": "Runaway",
+ "line": ["I'm gonna run away", " and open up my mind"],
+ "begin": [134.4, 136.6],
+ "end": [136.5, 139.7],
+ "duration": ["2.1s", "3.1s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [36],
+  "delay": ["4.6s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a42"
+},
+{
+ "title": "Runaway",
+ "line": ["(Gonna run away, gonna run away)"],
+ "begin": [139],
+ "end": [140.6],
+ "duration": ["1.6s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a43"
+},
+{
+ "title": "Runaway",
+ "line": ["Mind "],
+ "begin": [140.6],
+ "end": [142],
+ "duration": ["1.4s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [38],
+  "delay": ["0.4s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a44"
+},
+{
+ "title": "Runaway",
+ "line": ["(Gonna run away, gonna run away)"],
+ "begin": [141],
+ "end": [142.6],
+ "duration": ["1.6s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a45"
+},
+{
+ "title": "Runaway",
+ "line": ["Mind "],
+ "begin": [142.6],
+ "end": [144],
+ "duration": ["1.4s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [40],
+  "delay": ["0.9s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a46"
+},
+{
+ "title": "Runaway",
+ "line": ["(Gonna run away, gonna run away)"],
+ "begin": [143.5],
+ "end": [145.1],
+ "duration": ["1.6s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a47"
+},
+{
+ "title": "Runaway",
+ "line": ["Mind "],
+ "begin": [145.1],
+ "end": [147.6],
+ "duration": ["2.5s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [42],
+  "delay": ["0.5s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a48"
+},
+{
+ "title": "Runaway",
+ "line": ["(Gonna run away, gonna run away)"],
+ "begin": [145.6],
+ "end": [147.4],
+ "duration": ["1.8s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a49"
+},
+{
+ "title": "Runaway",
+ "line": [""],
+ "begin": [0],
+ "end": [43],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a4a"
+},
+{
+ "title": "Runaway",
+ "line": ["I wanna run away—","never say goodbye"],
+ "begin": [147.6, 150],
+ "end": [150, 152],
+ "duration": ["2.4s", "2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a4b"
+},
+{
+ "title": "Runaway",
+ "line": ["I wanna know the truth", " instead of wondering why"],
+ "begin": [152, 154.3],
+ "end": [154.3, 156.3],
+ "duration": ["2.3s", "2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a4c"
+},
+{
+ "title": "Runaway",
+ "line": ["I wanna know the answers—", " no more lies"],
+ "begin": [156.3, 159.3],
+ "end": [159.3, 161],
+ "duration": ["3s", "1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a4d"
+},
+{
+ "title": "Runaway",
+ "line": ["I wanna shut the door", " and open up my mind"],
+ "begin": [161, 163],
+ "end": [163, 165.4],
+ "duration": ["2s", "2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a4e"
+},
+{
+ "title": "Runaway",
+ "line": [""],
+ "begin": [0],
+ "end": [48],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a4f"
+},
+{
+ "title": "Runaway",
+ "line": ["I wanna run away", " and open up my mind"],
+ "begin": [165.4, 167.5],
+ "end": [167.5, 169.7],
+ "duration": ["2.1s", "2.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a50"
+},
+{
+ "title": "Runaway",
+ "line": ["I wanna run away", " and open up my mind"],
+ "begin": [169.7, 171.8],
+ "end": [171.8, 173.9],
+ "duration": ["2.1s", "2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a51"
+},
+{
+ "title": "Runaway",
+ "line": ["I wanna run away", " and open up my mind"],
+ "begin": [173.9, 176],
+ "end": [176, 178.1],
+ "duration": ["2.1s", "2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a52"
+},
+{
+ "title": "Runaway",
+ "line": ["I wanna run away", " and open up my mind"],
+ "begin": [178.1, 180.2],
+ "end": [180.2, 183.2],
+ "duration": ["2.1s", "3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1a53"
+}
+]

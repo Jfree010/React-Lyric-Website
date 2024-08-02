@@ -1,0 +1,1150 @@
+[
+{
+ "title": "By Myself",
+ "line": ["What do I do to ignore them behind me?"],
+ "begin": [9.5],
+ "end": [12.1],
+ "duration": ["2.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1804"
+},
+{
+ "title": "By Myself",
+ "line": ["Do I follow my instincts blindly?"],
+ "begin": [12.1],
+ "end": [14.2],
+ "duration": ["2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1805"
+},
+{
+ "title": "By Myself",
+ "line": ["Do I hide my pride ", "from these bad dreams"],
+ "begin": [14.3, 15.6],
+ "end": [15.6, 16.9],
+ "duration": ["1.3s", "1.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1806"
+},
+{
+ "title": "By Myself",
+ "line": ["And give in to sad thoughts that are maddening?"],
+ "begin": [16.9],
+ "end": [19.1],
+ "duration": ["2.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1807"
+},
+{
+ "title": "By Myself",
+ "line": [""],
+ "begin": [0],
+ "end": [4],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1808"
+},
+{
+ "title": "By Myself",
+ "line": ["Do I sit here and try to stand it?"],
+ "begin": [19.2],
+ "end": [21.3],
+ "duration": ["2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1809"
+},
+{
+ "title": "By Myself",
+ "line": ["Or do I try to catch them red-handed?"],
+ "begin": [21.3],
+ "end": [23.5],
+ "duration": ["2.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d180a"
+},
+{
+ "title": "By Myself",
+ "line": ["Do I trust some and get fooled by phoniness?"],
+ "begin": [23.5],
+ "end": [25.9],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d180b"
+},
+{
+ "title": "By Myself",
+ "line": ["Or do I trust nobody and live in loneliness?"],
+ "begin": [25.9],
+ "end": [28.3],
+ "duration": ["2.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d180c"
+},
+{
+ "title": "By Myself",
+ "line": [""],
+ "begin": [0],
+ "end": [9],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d180d"
+},
+{
+ "title": "By Myself",
+ "line": ["Because I can't hold on when I'm stretched so thin"],
+ "begin": [28.5],
+ "end": [30.8],
+ "duration": ["2.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d180e"
+},
+{
+ "title": "By Myself",
+ "line": ["I make the right moves, but I'm lost within"],
+ "begin": [30.8],
+ "end": [33.1],
+ "duration": ["2.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d180f"
+},
+{
+ "title": "By Myself",
+ "line": ["I put on my daily façade, but then"],
+ "begin": [33.1],
+ "end": [35.4],
+ "duration": ["2.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1810"
+},
+{
+ "title": "By Myself",
+ "line": ["I just end up getting hurt again"],
+ "begin": [35.4],
+ "end": [37.5],
+ "duration": ["2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1811"
+},
+{
+ "title": "By Myself",
+ "line": [""],
+ "begin": [0],
+ "end": [14],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1812"
+},
+{
+ "title": "By Myself",
+ "line": ["By myself"," (Myself), "],
+ "begin": [37.5, 38.3],
+ "end": [38.3, 39.5],
+ "duration": ["0.8s", "1.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1813"
+},
+{
+ "title": "By Myself",
+ "line": ["I ask why, ", "but in my mind, I find "],
+ "begin": [39.5, 40.2],
+ "end": [40.2, 41.5],
+ "duration": ["0.7s", "1.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1814"
+},
+{
+ "title": "By Myself",
+ "line": ["I can't rely on myself ", "(Myself), "],
+ "begin": [41.5, 42.95],
+ "end": [42.95, 44.1],
+ "duration": ["1.45s", "1.15s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1815"
+},
+{
+ "title": "By Myself",
+ "line": ["I ask why, ", "but in my mind, I find "],
+ "begin": [44.1, 44.9],
+ "end": [44.9, 46.2],
+ "duration": ["0.8s", "1.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1816"
+},
+{
+ "title": "By Myself",
+ "line": ["I can't rely on myself"],
+ "begin": [46.2],
+ "end": [47.9],
+ "duration": ["1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1817"
+},
+{
+ "title": "By Myself",
+ "line": [""],
+ "begin": [0],
+ "end": [20],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1818"
+},
+{
+ "title": "By Myself",
+ "line": ["I can't hold on "],
+ "begin": [47.9],
+ "end": [52.3],
+ "duration": ["4.2s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [22],
+  "delay": ["1.9s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1819"
+},
+{
+ "title": "By Myself",
+ "line": ["(To what I want when I'm stretched so thin)"],
+ "begin": [49.8],
+ "end": [52.2],
+ "duration": ["2.4s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d181a"
+},
+{
+ "title": "By Myself",
+ "line": ["It's all too much to take in"],
+ "begin": [52.6],
+ "end": [56.9],
+ "duration": ["4.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d181b"
+},
+{
+ "title": "By Myself",
+ "line": ["I can't hold on "],
+ "begin": [57],
+ "end": [61.7],
+ "duration": ["4.7s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [25],
+  "delay": ["2.1s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d181c"
+},
+{
+ "title": "By Myself",
+ "line": ["(To anything—watching everything spin)"],
+ "begin": [59.1],
+ "end": [61.5],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d181d"
+},
+{
+ "title": "By Myself",
+ "line": ["With thoughts of failure sinking in"],
+ "begin": [61.7],
+ "end": [66.9],
+ "duration": ["5.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d181e"
+},
+{
+ "title": "By Myself",
+ "line": [""],
+ "begin": [0],
+ "end": [27],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d181f"
+},
+{
+ "title": "By Myself",
+ "line": ["If I turn my back, I'm defenseless"],
+ "begin": [66.9],
+ "end": [69],
+ "duration": ["2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1820"
+},
+{
+ "title": "By Myself",
+ "line": ["And to go blindly seems senseless"],
+ "begin": [69],
+ "end": [71.4],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1821"
+},
+{
+ "title": "By Myself",
+ "line": ["If I hide my pride and let it all go on"],
+ "begin": [71.4],
+ "end": [73.8],
+ "duration": ["2.4s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1822"
+},
+{
+ "title": "By Myself",
+ "line": ["Then they'll take from me 'til everything is gone"],
+ "begin": [73.8],
+ "end": [76.13],
+ "duration": ["2.33s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1823"
+},
+{
+ "title": "By Myself",
+ "line": [""],
+ "begin": [0],
+ "end": [32],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1824"
+},
+{
+ "title": "By Myself",
+ "line": ["If I let them go, I'll be outdone"],
+ "begin": [76.13],
+ "end": [78.3],
+ "duration": ["2.23s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1825"
+},
+{
+ "title": "By Myself",
+ "line": ["But if I try to catch them, I'll be outrun"],
+ "begin": [78.3],
+ "end": [80.6],
+ "duration": ["2.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1826"
+},
+{
+ "title": "By Myself",
+ "line": ["If I'm killed by the questions like a cancer"],
+ "begin": [80.6],
+ "end": [82.9],
+ "duration": ["2.3s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1827"
+},
+{
+ "title": "By Myself",
+ "line": ["Then I'll be buried in the silence of the answer"],
+ "begin": [82.9],
+ "end": [85],
+ "duration": ["2.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1828"
+},
+{
+ "title": "By Myself",
+ "line": [""],
+ "begin": [0],
+ "end": [37],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1829"
+},
+{
+ "title": "By Myself",
+ "line": ["By myself ", "(Myself), "],
+ "begin": [85, 86],
+ "end": [86, 87],
+ "duration": ["1s", "1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d182a"
+},
+{
+ "title": "By Myself",
+ "line": ["I ask why ", "but in my mind, I find "],
+ "begin": [87, 88],
+ "end": [88, 89.2],
+ "duration": ["1s", "1.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d182b"
+},
+{
+ "title": "By Myself",
+ "line": ["I can't rely on myself ", "(Myself), "],
+ "begin": [89.2, 90.7],
+ "end": [90.7, 91.9],
+ "duration": ["1.5s", "1.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d182c"
+},
+{
+ "title": "By Myself",
+ "line": ["I ask why ", "but in my mind, I find "],
+ "begin": [91.9, 92.8],
+ "end": [92.8, 94],
+ "duration": ["1.1s", "1.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d182d"
+},
+{
+ "title": "By Myself",
+ "line": ["I can't rely on myself"],
+ "begin": [94],
+ "end": [95.6],
+ "duration": ["1.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d182e"
+},
+{
+ "title": "By Myself",
+ "line": [""],
+ "begin": [0],
+ "end": [43],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d182f"
+},
+{
+ "title": "By Myself",
+ "line": ["I can't hold on "],
+ "begin": [95.6],
+ "end": [100],
+ "duration": ["4.4s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [45],
+  "delay": ["2s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1830"
+},
+{
+ "title": "By Myself",
+ "line": ["(To what I want when I'm stretched so thin)"],
+ "begin": [97.6],
+ "end": [99.8],
+ "duration": ["2.2s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1831"
+},
+{
+ "title": "By Myself",
+ "line": ["It's all too much to take in"],
+ "begin": [100.2],
+ "end": [104.7],
+ "duration": ["4.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1832"
+},
+{
+ "title": "By Myself",
+ "line": ["I can't hold on "],
+ "begin": [105],
+ "end": [109.4],
+ "duration": ["4.4s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [48],
+  "delay": ["1.8s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1833"
+},
+{
+ "title": "By Myself",
+ "line": ["(To anything—watching everything spin)"],
+ "begin": [106.8],
+ "end": [109.2],
+ "duration": ["2.4s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1834"
+},
+{
+ "title": "By Myself",
+ "line": ["With thoughts of failure sinking in"],
+ "begin": [109.4],
+ "end": [115.4],
+ "duration": ["6s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [51],
+  "delay": ["4.8s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1835"
+},
+{
+ "title": "By Myself",
+ "line": [""],
+ "begin": [0],
+ "end": [50],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1836"
+},
+{
+ "title": "By Myself",
+ "line": ["How do you think", "", " I've lost so much?"],
+ "begin": [114.2, 115.5, 116.5],
+ "end": [115.5, 116.5, 117.9],
+ "duration": ["1.3s", "1s", "1.4s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1837"
+},
+{
+ "title": "By Myself",
+ "line": ["I'm so afraid", "", " that I'm out of touch"],
+ "begin": [118.8, 120, 120.9],
+ "end": [120, 120.9, 122.3],
+ "duration": ["1.2s", "0.9s", "1.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1838"
+},
+{
+ "title": "By Myself",
+ "line": ["How do you expect ", "", "I will know what to do"],
+ "begin": [123.5, 124.8, 125.6],
+ "end": [124.8, 125.6, 127.2],
+ "duration": ["1.3s", "0.8s", "1.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1839"
+},
+{
+ "title": "By Myself",
+ "line": ["When all I know", "", " is what you tell me to?"],
+ "begin": [128, 129.4, 130],
+ "end": [129.4, 130, 131.6],
+ "duration": ["1.4s", "0.6s", "1.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d183a"
+},
+{
+ "title": "By Myself",
+ "line": [""],
+ "begin": [0],
+ "end": [55],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d183b"
+},
+{
+ "title": "By Myself",
+ "line": ["Don't you", " know"],
+ "begin": [132, 132.88],
+ "end": [132.88, 133.6],
+ "duration": ["0.88s", "0.72s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d183c"
+},
+{
+ "title": "By Myself",
+ "line": ["I can't tell you how to make it", " go"],
+ "begin": [133.6, 135],
+ "end": [135, 135.8],
+ "duration": ["2.6s", "0.8s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d183d"
+},
+{
+ "title": "By Myself",
+ "line": ["No matter what I do, how hard I ", "try"],
+ "begin": [135.8, 137.5],
+ "end": [137.5, 138.2],
+ "duration": ["1.7s", "0.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d183e"
+},
+{
+ "title": "By Myself",
+ "line": ["I can't seem to convince myself ", "why"],
+ "begin": [138.2, 139.8],
+ "end": [139.8, 140.5],
+ "duration": ["1.6s", "0.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d183f"
+},
+{
+ "title": "By Myself",
+ "line": ["I'm stuck on the outside"],
+ "begin": [140.5],
+ "end": [141.6],
+ "duration": ["1.1s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1840"
+},
+{
+ "title": "By Myself",
+ "line": [""],
+ "begin": [0],
+ "end": [61],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1841"
+},
+{
+ "title": "By Myself",
+ "line": ["Don't you ", "know"],
+ "begin": [141.6, 142.1],
+ "end": [142.1, 142.8],
+ "duration": ["1.5s", "0.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1842"
+},
+{
+ "title": "By Myself",
+ "line": ["I can't tell you how to make it ", "go"],
+ "begin": [142.8, 144.4],
+ "end": [144.4, 145],
+ "duration": ["1.6s", "0.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1843"
+},
+{
+ "title": "By Myself",
+ "line": ["No matter what I do, how hard I ", "try"],
+ "begin": [145, 146.8],
+ "end": [146.8, 147.5],
+ "duration": ["1.8s", "0.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1844"
+},
+{
+ "title": "By Myself",
+ "line": ["I can't seem to convince myself ", "why"],
+ "begin": [147.5, 149.1],
+ "end": [149.1, 149.7],
+ "duration": ["1.6s", "0.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1845"
+},
+{
+ "title": "By Myself",
+ "line": ["I'm stuck on the outside"],
+ "begin": [149.7],
+ "end": [151.4],
+ "duration": ["1.7s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1846"
+},
+{
+ "title": "By Myself",
+ "line": [""],
+ "begin": [0],
+ "end": [67],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1847"
+},
+{
+ "title": "By Myself",
+ "line": ["I can't hold on "],
+ "begin": [151.6],
+ "end": [155.8],
+ "duration": ["4.2s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [69],
+  "delay": ["1.7s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1848"
+},
+{
+ "title": "By Myself",
+ "line": ["(To what I want when I'm stretched so thin)"],
+ "begin": [153.3],
+ "end": [155.6],
+ "duration": ["2.3s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1849"
+},
+{
+ "title": "By Myself",
+ "line": ["It's all too much to take in"],
+ "begin": [156],
+ "end": [160.5],
+ "duration": ["4.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d184a"
+},
+{
+ "title": "By Myself",
+ "line": ["I can't hold on "],
+ "begin": [160.8],
+ "end": [165.3],
+ "duration": ["4.5s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [72],
+  "delay": ["1.8s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d184b"
+},
+{
+ "title": "By Myself",
+ "line": ["(To anything—watching everything spin)"],
+ "begin": [162.6],
+ "end": [165],
+ "duration": ["2.4s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d184c"
+},
+{
+ "title": "By Myself",
+ "line": ["With thoughts of failure sinking in"],
+ "begin": [165.5],
+ "end": [169.9],
+ "duration": ["4.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d184d"
+},
+{
+ "title": "By Myself",
+ "line": [""],
+ "begin": [0],
+ "end": [74],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d184e"
+},
+{
+ "title": "By Myself",
+ "line": ["I can't hold on "],
+ "begin": [170],
+ "end": [174.5],
+ "duration": ["4.5s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [76],
+  "delay": ["2s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d184f"
+},
+{
+ "title": "By Myself",
+ "line": ["(To what I want when I'm stretched so thin)"],
+ "begin": [172],
+ "end": [174.2],
+ "duration": ["1.2s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1850"
+},
+{
+ "title": "By Myself",
+ "line": ["It's all too much to take in"],
+ "begin": [174.5],
+ "end": [179.1],
+ "duration": ["4.6s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1851"
+},
+{
+ "title": "By Myself",
+ "line": ["I can't hold on "],
+ "begin": [179.4],
+ "end": [183.9],
+ "duration": ["4.5s"],
+ "overlapped": 1,
+ "overlap": {
+  "with": [79],
+  "delay": ["1.9s"],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1852"
+},
+{
+ "title": "By Myself",
+ "line": ["(To anything—watching everything spin)"],
+ "begin": [181.3],
+ "end": [183.7],
+ "duration": ["2.4s"],
+ "overlapped": 2,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1853"
+},
+{
+ "title": "By Myself",
+ "line": ["With thoughts of failure sinking..."],
+ "begin": [183.9],
+ "end": [188.4],
+ "duration": ["4.5s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d1854"
+},
+{
+ "title": "By Myself",
+ "line": [""],
+ "begin": [0],
+ "end": [74],
+ "duration": ["0s"],
+ "overlapped": 0,
+ "overlap": {
+  "with": [],
+  "delay": [],
+  "color": []
+ },
+ "_id": "65fc97b185ff8a13812d184e"
+}
+]
